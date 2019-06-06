@@ -8,7 +8,7 @@ SpaceClaim中常用的操作就那么几个，软件提供了各种方便的快�
 
 ANSYS安装完成后，在安装目录下可以找到插件开发所需的API文档，默认路径是`C:\Program Files\ANSYS Inc\v182\scdm`，在该目录下，可以看到历代版本的API文档文件夹。
 
-![安装目录](.\install_folder.png"安装目录")
+![安装目录](install_folder.png"安装目录")
 
 每个版本的文件夹内容大致相同，主要文件包括：
 
@@ -54,13 +54,13 @@ F --> O(Coordinate Axes)
 
 这里Part和Component对象貌似有点冲突，文档中说，`A component is an instance of a template part `，我理解为每一个Part都是独立的，而Component就是它的容器，代替Part组成文档树的结点，每一个Component的content就是一个part。它自带一个转换矩阵，它的作用就像一个中间件和粘合剂，将所有的的Part拼接起来，显示出一个完整的场景视图。当存在多级结构时，自然也就存在多级的转换，如下图所示：
 
-![Part](.\part.png)
+![Part](part.png)
 
 ## 一个用于隐藏所选对象的插件
 
 生成的插件被SpaceClaim识别后，会在Ribbon菜单里面多生成一个tab，然后在里面再生成一个Group，Group里面新增一个按钮，点击按钮会执行相应的Command，同时可以给该Command绑定想要的快捷键，以实现最初的需求。
 
-![插件](.\AddIn.png"新增的插件")
+![插件](AddIn.png"新增的插件")
 
 `SpaceClaim_API.chm`中的Getting Started章节描述了开发插件所需的基本要素：
 

@@ -32,6 +32,8 @@ SpaceClaim本身支持IronPython脚本运行，可以用于这种需要批处理
 
 ## 批量填充的脚本
 
+解决上述问题的脚本如下：
+
   ```python
 # Python Script, API Version = V17
 #预先选取一个孔的任意内表面，然后运行此脚本

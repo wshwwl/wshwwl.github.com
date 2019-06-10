@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>index</title><link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; }
+<title>scdm_py</title><link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
 body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
 iframe { margin: auto; }
@@ -149,6 +149,79 @@ iframe { max-width: 100%; width: 100%; border: none; }
 .highlight td, .highlight tr { border: 0px; }
 
 
+.CodeMirror { height: auto; }
+.CodeMirror.cm-s-inner { background: inherit; }
+.CodeMirror-scroll { overflow-y: hidden; overflow-x: auto; z-index: 3; }
+.CodeMirror-gutter-filler, .CodeMirror-scrollbar-filler { background-color: rgb(255, 255, 255); }
+.CodeMirror-gutters { border-right: 1px solid rgb(221, 221, 221); background: inherit; white-space: nowrap; }
+.CodeMirror-linenumber { padding: 0px 3px 0px 5px; text-align: right; color: rgb(153, 153, 153); }
+.cm-s-inner .cm-keyword { color: rgb(119, 0, 136); }
+.cm-s-inner .cm-atom, .cm-s-inner.cm-atom { color: rgb(34, 17, 153); }
+.cm-s-inner .cm-number { color: rgb(17, 102, 68); }
+.cm-s-inner .cm-def { color: rgb(0, 0, 255); }
+.cm-s-inner .cm-variable { color: rgb(0, 0, 0); }
+.cm-s-inner .cm-variable-2 { color: rgb(0, 85, 170); }
+.cm-s-inner .cm-variable-3 { color: rgb(0, 136, 85); }
+.cm-s-inner .cm-string { color: rgb(170, 17, 17); }
+.cm-s-inner .cm-property { color: rgb(0, 0, 0); }
+.cm-s-inner .cm-operator { color: rgb(152, 26, 26); }
+.cm-s-inner .cm-comment, .cm-s-inner.cm-comment { color: rgb(170, 85, 0); }
+.cm-s-inner .cm-string-2 { color: rgb(255, 85, 0); }
+.cm-s-inner .cm-meta { color: rgb(85, 85, 85); }
+.cm-s-inner .cm-qualifier { color: rgb(85, 85, 85); }
+.cm-s-inner .cm-builtin { color: rgb(51, 0, 170); }
+.cm-s-inner .cm-bracket { color: rgb(153, 153, 119); }
+.cm-s-inner .cm-tag { color: rgb(17, 119, 0); }
+.cm-s-inner .cm-attribute { color: rgb(0, 0, 204); }
+.cm-s-inner .cm-header, .cm-s-inner.cm-header { color: rgb(0, 0, 255); }
+.cm-s-inner .cm-quote, .cm-s-inner.cm-quote { color: rgb(0, 153, 0); }
+.cm-s-inner .cm-hr, .cm-s-inner.cm-hr { color: rgb(153, 153, 153); }
+.cm-s-inner .cm-link, .cm-s-inner.cm-link { color: rgb(0, 0, 204); }
+.cm-negative { color: rgb(221, 68, 68); }
+.cm-positive { color: rgb(34, 153, 34); }
+.cm-header, .cm-strong { font-weight: 700; }
+.cm-del { text-decoration: line-through; }
+.cm-em { font-style: italic; }
+.cm-link { text-decoration: underline; }
+.cm-error { color: red; }
+.cm-invalidchar { color: red; }
+.cm-constant { color: rgb(38, 139, 210); }
+.cm-defined { color: rgb(181, 137, 0); }
+div.CodeMirror span.CodeMirror-matchingbracket { color: rgb(0, 255, 0); }
+div.CodeMirror span.CodeMirror-nonmatchingbracket { color: rgb(255, 34, 34); }
+.cm-s-inner .CodeMirror-activeline-background { background: inherit; }
+.CodeMirror { position: relative; overflow: hidden; }
+.CodeMirror-scroll { height: 100%; outline: 0px; position: relative; box-sizing: content-box; background: inherit; }
+.CodeMirror-sizer { position: relative; }
+.CodeMirror-gutter-filler, .CodeMirror-hscrollbar, .CodeMirror-scrollbar-filler, .CodeMirror-vscrollbar { position: absolute; z-index: 6; display: none; }
+.CodeMirror-vscrollbar { right: 0px; top: 0px; overflow: hidden; }
+.CodeMirror-hscrollbar { bottom: 0px; left: 0px; overflow: hidden; }
+.CodeMirror-scrollbar-filler { right: 0px; bottom: 0px; }
+.CodeMirror-gutter-filler { left: 0px; bottom: 0px; }
+.CodeMirror-gutters { position: absolute; left: 0px; top: 0px; padding-bottom: 30px; z-index: 3; }
+.CodeMirror-gutter { white-space: normal; height: 100%; box-sizing: content-box; padding-bottom: 30px; margin-bottom: -32px; display: inline-block; }
+.CodeMirror-gutter-wrapper { position: absolute; z-index: 4; background: 0px 0px !important; border: none !important; }
+.CodeMirror-gutter-background { position: absolute; top: 0px; bottom: 0px; z-index: 4; }
+.CodeMirror-gutter-elt { position: absolute; cursor: default; z-index: 4; }
+.CodeMirror-lines { cursor: text; }
+.CodeMirror pre { border-radius: 0px; border-width: 0px; background: 0px 0px; font-family: inherit; font-size: inherit; margin: 0px; white-space: pre; word-wrap: normal; color: inherit; z-index: 2; position: relative; overflow: visible; }
+.CodeMirror-wrap pre { word-wrap: break-word; white-space: pre-wrap; word-break: normal; }
+.CodeMirror-code pre { border-right: 30px solid transparent; width: fit-content; }
+.CodeMirror-wrap .CodeMirror-code pre { border-right: none; width: auto; }
+.CodeMirror-linebackground { position: absolute; left: 0px; right: 0px; top: 0px; bottom: 0px; z-index: 0; }
+.CodeMirror-linewidget { position: relative; z-index: 2; overflow: auto; }
+.CodeMirror-wrap .CodeMirror-scroll { overflow-x: hidden; }
+.CodeMirror-measure { position: absolute; width: 100%; height: 0px; overflow: hidden; visibility: hidden; }
+.CodeMirror-measure pre { position: static; }
+.CodeMirror div.CodeMirror-cursor { position: absolute; visibility: hidden; border-right: none; width: 0px; }
+.CodeMirror div.CodeMirror-cursor { visibility: hidden; }
+.CodeMirror-focused div.CodeMirror-cursor { visibility: inherit; }
+.cm-searching { background: rgba(255, 255, 0, 0.4); }
+@media print {
+  .CodeMirror div.CodeMirror-cursor { visibility: hidden; }
+}
+
+
 :root { --side-bar-bg-color: #fafafa; --control-text-color: #777; }
 html { font-size: 16px; }
 body { font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.6; }
@@ -227,6 +300,6 @@ header, .context-menu, .megamenu-content, footer { font-family: "Segoe UI", Aria
 </style>
 </head>
 <body class='typora-export os-windows' >
-<div  id='write'  class = 'is-node'><h1><a name='header-n0' class='md-header-anchor '></a>大肉包菜包还有灌汤包~</h1><ul><li><p><a href='./articles/2019/06/10/scdm_py.html'>使用Python脚本操作SpaceClaim</a></p></li><li><p><a href='./articles/2019/06/06/SCDM_AddIn.html'>C#开发SpaceClaim插件</a></p></li><li><p><a href='./articles/2018/03/25/markdown.html'>开始用Markdown记笔记</a></p><p>&nbsp;</p></li></ul><p>&nbsp;</p><p>&nbsp;</p></div>
+<div  id='write'  class = 'is-node'><p>&nbsp;</p><h1><a name='header-n54' class='md-header-anchor '></a>通过Python脚本操作Space_Claim</h1><div class='md-toc' mdtype='toc'><p class="md-toc-content"><span class="md-toc-item md-toc-h1" data-ref="n54"><a class="md-toc-inner" style="cursor: pointer;" href="#header-n54">通过Python脚本操作Space_Claim</a></span><span class="md-toc-item md-toc-h2" data-ref="n81"><a class="md-toc-inner" style="cursor: pointer;" href="#header-n81">批处理问题</a></span><span class="md-toc-item md-toc-h2" data-ref="n58"><a class="md-toc-inner" style="cursor: pointer;" href="#header-n58">选择功能的局限</a></span><span class="md-toc-item md-toc-h2" data-ref="n60"><a class="md-toc-inner" style="cursor: pointer;" href="#header-n60">新建脚本</a></span><span class="md-toc-item md-toc-h2" data-ref="n61"><a class="md-toc-inner" style="cursor: pointer;" href="#header-n61">脚本编辑器</a></span><span class="md-toc-item md-toc-h2" data-ref="n62"><a class="md-toc-inner" style="cursor: pointer;" href="#header-n62">批量填充的脚本</a></span></p></div><h2><a name='header-n81' class='md-header-anchor '></a>批处理问题</h2><p>一个比下图还要复杂的结构，它的特征就是板上面有很多孔，为了简化有限元分析，需要把这些孔都填上。常规操作是，选中孔的全部内表面，然后进行Fill或者Delete即可。但是当时的结构上有非常多的孔，一个一个点选非常麻烦，而且选到一半很有可能出错导致从头开始。</p><p><img src='ban.PNG' alt='结构' referrerPolicy='no-referrer' /></p><h2><a name='header-n58' class='md-header-anchor '></a>选择功能的局限</h2><p>SpaceClaim里面有批量的选择功能，然而面对这种问题也无能为力。在选中孔内的2个面的情况下，选择<code>凹陷</code>，会选择这个孔的四个内表面。如果根据相同面积的方法来选择，也只能选择所有孔内表面中的所有竖直的面，或者水平的面。如果根据面积范围来选，有可能选中其它不需要的面。</p><p><img src='selection.png' alt='选择' referrerPolicy='no-referrer' /></p><h2><a name='header-n60' class='md-header-anchor '></a>新建脚本</h2><p>SpaceClaim本身支持IronPython脚本运行，可以用于这种需要批处理的情况。要新建一个脚本文件，依次点击<code>文件</code>--&gt;<code>新建</code>--&gt;<code>脚本</code>，便可打开SpaceClaim的脚本界面。</p><p><img src='new_script.png' alt='新建脚本' referrerPolicy='no-referrer' /></p><h2><a name='header-n61' class='md-header-anchor '></a>脚本编辑器</h2><p>这个界面包含工具栏、脚本文件编辑窗口、命令输入运行窗口和响应结果输出窗口。使用工具栏可以进行打开、保存、录制、运行、插入、调试脚本文件等操作。</p><p>点击工具栏中的<code>?</code>图标，可以打开SpaceClaim的帮助文档，并跳转到脚本的介绍页面，里面给出了如何使用运行脚本的基本介绍。关于Python脚本，相关API可以参考安装目录里面的<code>API_Scripting_Class_Library.chm</code>文件。</p><p><img src='edit_script.PNG' alt='脚本界面' referrerPolicy='no-referrer' /></p><h2><a name='header-n62' class='md-header-anchor '></a>批量填充的脚本</h2><p>解决上述问题的脚本如下：</p><pre lang="python" class="md-fences md-end-block ty-contain-cm modeLoaded" spellcheck="false"><div class="CodeMirror cm-s-inner CodeMirror-wrap" lang="python"><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 0px; left: 8px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 0px; margin-bottom: 0px; border-right-width: 0px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><pre>x</pre></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-code" role="presentation" style=""><div class="CodeMirror-activeline" style="position: relative;"><div class="CodeMirror-activeline-background CodeMirror-linebackground"></div><div class="CodeMirror-gutter-background CodeMirror-activeline-gutter" style="left: 0px; width: 0px;"></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-comment"># Python Script, API Version = V17</span></span></pre></div><div class="" style="position: relative;"><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-comment">#预先选取一个孔的任意内表面，然后运行此脚本</span></span></pre></div><div class="" style="position: relative;"><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-variable">selectedFaceArea</span>=<span class="cm-variable">Selection</span>.<span class="cm-property">GetActive</span>().<span class="cm-property">Items</span>[<span class="cm-number">0</span>].<span class="cm-property">Area</span> &nbsp;<span class="cm-comment">#获取所选面的面积</span></span></pre></div><div class="" style="position: relative;"><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-variable">sameAreaFaces</span>=<span class="cm-variable">PowerSelection</span>.<span class="cm-property">Faces</span>.<span class="cm-property">ByArea</span>(<span class="cm-variable">selectedFaceArea</span>).<span class="cm-property">Items</span> <span class="cm-comment"># 选取所有具有相同面积的面</span></span></pre></div><div class="" style="position: relative;"><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"><span class="cm-keyword">for</span> <span class="cm-variable">face</span> <span class="cm-keyword">in</span> <span class="cm-variable">sameAreaFaces</span>: <span class="cm-comment">#遍历所有具有相同面积的面</span></span></pre></div><div class="" style="position: relative;"><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp;<span class="cm-keyword">if</span> <span class="cm-keyword">not</span> <span class="cm-variable">face</span>.<span class="cm-property">IsDeleted</span>: <span class="cm-comment">#如果该面还存在</span></span></pre></div><div class="" style="position: relative;"><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp; &nbsp;<span class="cm-variable">Fill</span>.<span class="cm-property">Execute</span>(<span class="cm-variable">PowerSelection</span>.<span class="cm-property">Faces</span>.<span class="cm-property">Depressions</span>(<span class="cm-variable">Selection</span>.<span class="cm-property">Create</span>(<span class="cm-variable">face</span>))) <span class="cm-comment">#选取该面所在的凹陷，然后使用Fill命令填充。</span></span></pre></div></div></div></div></div></div><div style="position: absolute; height: 0px; width: 1px; border-bottom: 0px solid transparent; top: 184px;"></div><div class="CodeMirror-gutters" style="display: none; height: 184px;"></div></div></div></pre><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></div>
 </body>
 </html>

@@ -1,5 +1,7 @@
 # 大肉包菜包还有灌汤包~
 
+* [数独(Sudoku) 的求解](./articles/2019/06/13/Sudoku.html)
+
 * [使用Python脚本操作SpaceClaim](./articles/2019/06/10/scdm_py.html)
 
 * [C#开发SpaceClaim插件](./articles/2019/06/06/SCDM_AddIn.html)

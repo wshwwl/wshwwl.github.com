@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AddIns>
+  <AddIn name="LX"
+         description="LX add-in, written in C#, using API V17."
+         assembly="LX.dll"
+         typename="SpaceClaim.Api.V17.LX.LXAddIn"
+         host="NewAppDomain"/>
+</AddIns>

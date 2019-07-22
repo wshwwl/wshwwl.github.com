@@ -1,5 +1,7 @@
 [首页](https://wshwwl.github.io)  [关于](https://wshwwl.github.io/about.html) 
 
+# C#开发SpaceClaim插件
+
 [TOC]
 
 SpaceClaim中常用的操作就那么几个，软件提供了各种方便的快捷键，可以极大的提高操作效率，而唯独使用频率极高的**`隐藏`**命令没有快捷键，非常恼火。瞎点的时候，发现它还提供插件支持。除了官网提供的几个官方插件以外，还可以自己开发插件。

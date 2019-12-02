@@ -44,6 +44,11 @@ for face in sameAreaFaces: #遍历所有具有相同面积的面
         Fill.Execute(PowerSelection.Faces.Depressions(Selection.Create(face))) #选取该面所在的凹陷，然后使用Fill命令填充。
   ```
 
+---
+
+## 2019/12/3 补充编辑
+
+偶然一次机会在同事那里显摆时被告知有一种方法可以简单的实现上述操作。就是选中方孔内部两个相邻面，然后在“选择”菜单里面会出现两个“具有相同面积的面”选项，依次点击这两个选项，即可以选择所有方孔的内表面，然后进行填充。
 
 
 

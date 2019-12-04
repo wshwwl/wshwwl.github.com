@@ -1,4 +1,14 @@
+[首页](https://wshwwl.github.io)  [关于](https://wshwwl.github.io/about.html) 
+
 #　反应谱求解
+
+[toc]
+
+## 反应谱定义
+
+**反应谱**：是在给定的地震加速度作用期间，单质点系统的最大反应随系统自振周期变化的曲线。
+
+更直观的定义：一组具有相同阻尼、不同自振周期的单质点系统，在某一地震时程作用下的最大反应，为该地震的反应谱，分为加速度反应谱、速度反应谱与位移反应谱。
 
 ## 参考书籍
 
@@ -61,6 +71,119 @@ B_{12}=e^{-h\omega \Delta t}[-\frac{2h}{\omega^3\Delta t}cos\omega_d\Delta t+\fr
 $$
 
 $$
-B_{21}=
+B_{21}=e^{-h\omega \Delta t}[-\frac{1}{\omega^2\Delta t}cos\omega_d\Delta t-(\frac{h}{\omega\omega_d\Delta t}+\frac{1}{\omega_d})sin\omega_d\Delta t]+\frac{1}{\omega^2\Delta t}
 $$
+
+$$
+B_{22}=e^{-h\omega\Delta t}[\frac{1}{\omega^2\Delta t}cos\omega_d\Delta t+\frac{h}{\omega\omega_d\Delta t}sin\omega_d\Delta t]-\frac{1}{\omega^2\Delta t}
+$$
+
+求得$x_{i+1}$后，由（a）式可求得绝对加速度反应：
+$$
+(\ddot x+\ddot y)_{i+1|}=-(2h\omega\dot x_{i+1}+\omega^2x_{i+1})\qquad(c)
+$$
+当给定t=0时，反应的初值为：
+$$
+x_1=0\\
+\dot{x}_1=-\ddot{y}_1\Delta t\\
+(\ddot x+\ddot y)=2h\omega\ddot y_1\Delta t
+$$
+时，按（b）、（c）式就可逐次计算得到反应值。
+
+另外，在计算（b）式各系数时，定义以下变量以便编制程序：
+$$
+E=e^{-h\omega\Delta t}\\
+SS=-h\omega sin\omega\Delta t-\omega_dcos\omega_d\Delta t\\
+CC=-h\omega cos\omega_d\Delta t+\omega_dsin\omega_d\Delta t\\
+$$
+
+$$
+S1=(E\cdot SS+\omega_d)/\omega^2\\
+C1=(E\cdot CC+h\omega)/\omega^2
+$$
+
+$$
+S2=(E\Delta t\cdot SS+h\omega S1+\omega_d\cdot C1)/\omega^2\\
+C2=(E\Delta t\cdot CC+h\omega C1-\omega_d)\cdot S1)/\omega^2
+$$
+
+$$
+S3=\Delta t\cdot S1-S2\\
+C3=\Delta t\cdot C1-C2
+$$
+
+## 线性加速度法求解程序
+
+```Matlab
+function [acc,vel,dis]=sdof_response(h,f,dt,ddy)
+%sdof_response 求解单质点阻尼系统在地震加速度激励下的响应；
+% h:阻尼比
+% f：系统固有频率（Hz）
+% dt：地震加速度时程采样时间间隔
+% ddy：地震加速度时程
+
+n_sample=length(ddy);
+acc=zeros(1,n_sample);
+vel=zeros(1,n_sample);
+dis=zeros(1,n_sample);
+
+w=2*pi*f;
+w2=w*w;
+hw=h*w;
+wd=w*sqrt(1-h*h);
+wdt=wd*dt;
+E=exp(-hw*dt);
+cwdt=cos(wdt);
+swdt=sin(wdt);
+a11=E*(cwdt+hw*swdt/wd);
+a12=E*swdt/wd;
+a21=-E*w2*swdt/wd;
+a22=E*(cwdt-hw*swdt/wd);
+
+ss=-hw*swdt-wd*cwdt;
+cc=-hw*cwdt+wd*swdt;
+s1=(E*ss+wd)/w2;
+c1=(E*cc+hw)/w2;
+s2=(E*dt*ss+hw*s1+wd*c1)/w2;
+c2=(E*dt*cc+hw*c1-wd*s1)/w2;
+s3=dt*s1-s2;
+c3=dt*c1-c2;
+b11=-s2/wdt;
+b12=-s3/wdt;
+b21=(hw*s2-wd*c2)/wdt;
+b22=(hw*s3-wd*c3)/wdt;
+
+acc(1)=2*hw*ddy(1)*dt;
+vel(1)=-ddy(1)*dt;
+dis(1)=0;
+
+for i=2:n_sample
+    dis(i)=a11*dis(i-1)+a12*vel(i-1)+b11*ddy(i-1)+b12*ddy(i);
+    vel(i)=a21*dis(i-1)+a22*vel(i-1)+b21*ddy(i-1)+b22*ddy(i);
+    acc(i)=-2*hw*vel(i)-w2*dis(i);
+end
+```
+
+## 响应谱的求解
+
+通过上述方法可以求得任意单个固有频率的系统在地震激励下的响应（含位移、速度、加速度），根据反应谱定义，输入一系列不同的待求解频率，分别取其反应的最大值，即可求得反应谱。
+
+以加速度反应谱为例，可以通过以下代码求出：
+
+```matlab
+function  rsacc = tts(h,freqs,acc,dt)
+%TTS 求解给定的地震加速度时程的加速度反应谱
+%h 系统阻尼比
+%freqs 待求解的频率点
+%acc 地震加速度时程
+%dt 地震时程的采样时间间隔
+n=length(freqs);
+rsacc=zeros(1,n);
+ for i=1:n
+     rsacc(i)=max(abs(sdof_response(h,freqs(i),dt,acc)));
+ end 
+end
+```
+
+
 

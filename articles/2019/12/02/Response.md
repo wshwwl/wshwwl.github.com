@@ -88,7 +88,7 @@ x_1=0\\
 \dot{x}_1=-\ddot{y}_1\Delta t\\
 (\ddot x+\ddot y)=2h\omega\ddot y_1\Delta t
 $$
-时，按（b）、（c）式就可逐次计算得到反应值。
+时，按（b）、（c）式就可逐次计算得到反应值（我在实际计算时全取0）。
 
 另外，在计算（b）式各系数时，定义以下变量以便编制程序：
 $$
@@ -153,8 +153,8 @@ b12=-s3/wdt;
 b21=(hw*s2-wd*c2)/wdt;
 b22=(hw*s3-wd*c3)/wdt;
 
-acc(1)=2*hw*ddy(1)*dt;
-vel(1)=-ddy(1)*dt;
+acc(1)=0;
+vel(1)=0;
 dis(1)=0;
 
 for i=2:n_sample
@@ -185,5 +185,31 @@ rsacc=zeros(1,n);
 end
 ```
 
+## 示例
 
+以下以一段随机数作为地震波，采样频率100Hz，然后求其响应谱。
+
+```matlab
+fs=100; %采样频率
+T=60;   %时长
+ddy=rand(fs*T,1)-0.5; %时程
+h=0.02; %阻尼比
+dt=1/fs;
+freqs=logspace(log10(0.1),log10(100),100);
+accResponseSpectrum=tts(h,freqs,ddy,dt);
+subplot(2,1,2);
+plot(freqs,accResponseSpectrum);
+xlabel('频率(Hz)');
+ylabel('加速度反应谱值');
+grid on
+subplot(2,1,1);
+plot(0:dt:T-dt,ddy);
+xlabel('时间(s)');
+ylabel('加速度');
+grid on;
+```
+
+
+
+![](D:\wshwwl.github.com\articles\2019\12\02\test.jpg)
 

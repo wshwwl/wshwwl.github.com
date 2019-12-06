@@ -1,6 +1,7 @@
 # 大肉包菜包还有灌汤包~
 
-<p align="right"><a herf="https://wshwwl.github.io/about.html">关于</a></p>
+<p align="right"><a href="https://wshwwl.github.io/about.html">关于</a></p>
+
 * [反应谱求解的修正](.\articles\2019\12\04\Response2.html)
 
 * [反应谱的求解](./articles/2019/12/02/Response.html)

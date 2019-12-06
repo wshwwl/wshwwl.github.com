@@ -1,2 +1,2 @@
-![](https://wshwwl.github.com/nice.jpg)
+![](https://wshwwl.github.io/nice.jpg)
 

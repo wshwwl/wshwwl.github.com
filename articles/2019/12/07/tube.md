@@ -4,7 +4,7 @@
 
 [toc]
 
-用于评价承受内外压、轴力、剪力、弯矩、扭矩的圆管解构。
+用于评价承受内外压、弯矩载荷的圆管解构。
 
 ## 内外压作用下应力分布
 
@@ -116,18 +116,18 @@ $$
 |截面模量|$W$|$(D_o^4-D_i^4)\pi/(32D_o)$|
 |壁厚坐标范围|$x$|$-(t/2)\le x\le(t/2)$|
 |**薄膜应力**||平均应力|
-| 切向应力 | $\sigma_\theta$ | $(1/t)*\int {p[1/(\rho^2-1)]*[R_o^2/(R_m+x)+1]}\,dx$ |
+| 切向应力 | $\sigma_\theta$ | $(1/t)*\int {p[1/(\rho^2-1)]*[R_o^2/(R_m+x)^2+1]}\,dx$ |
 |轴向应力|$\sigma_a$|$(1/t)*\int{p[1/(\rho^2-1)]}\,dx$|
-|径向应力|$\sigma_r$|$(1/t)*\int{-p[1/(\rho^2-1)]*[R_o^2/(R_m+x)-1]}\,dx$|
+|径向应力|$\sigma_r$|$(1/t)*\int{-p[1/(\rho^2-1)]*[R_o^2/(R_m+x)^2-1]}\,dx$|
 |$Tresca$|$S.I.$|$\sigma_t-\sigma_r$|
 |$v.Mises$|$S_{EQV}$|$[(1/2)*(\sigma_\theta-\sigma_a)^2+(\sigma_a-\sigma_r)^2+(\sigma_r-\sigma_\theta)^2]^{1/2}$|
 |**薄膜+弯曲应力**|||
-|切向应力-内|$\sigma_{\theta,i}$|$(-6/t^2)*\int{p[1/(\rho^2-1)]*[R_a^2/(R_m+x)+1]*x}\,dx+\sigma_\theta$|
-|切向应力-外|$\sigma_{\theta,o}$|$(6/t^2)*\int{p[1/(\rho^2-1)]*[R_a^2/(R_m+x)+1]*x}\,dx+\sigma_\theta$|
+|切向应力-内|$\sigma_{\theta,i}$|$(-6/t^2)*\int{p[1/(\rho^2-1)]*[R_a^2/(R_m+x)^2+1]*x}\,dx+\sigma_\theta$|
+|切向应力-外|$\sigma_{\theta,o}$|$(6/t^2)*\int{p[1/(\rho^2-1)]*[R_a^2/(R_m+x)^2+1]*x}\,dx+\sigma_\theta$|
 |轴向应力-内|$\sigma_{a,i}$|$(1/t)*\int{p[1/(\rho^2-1)]*x}\,dx+\sigma_a+M/W$|
 |轴向应力-外|$\sigma_{a,o}$|$(1/t)*\int{p[1/(\rho^2-1)]*x}\,dx+\sigma_a-M/W$|
-| 径向应力-内 | $\sigma_{r,i}$ |$(-6/t^2)\int{-p[1/(\rho^2-1)]*[R_o^2/(R_m+x)-1]*x}\,dx+\sigma_r$|
-| 径向应力-外 | $\sigma_{r,o}$ |$(6/t^2)\int{-p[1/(\rho^2-1)]*[R_o^2/(R_m+x)-1]*x}\,dx+\sigma_r$|
+| 径向应力-内 | $\sigma_{r,i}$ |$(-6/t^2)\int{-p[1/(\rho^2-1)]*[R_o^2/(R_m+x)^2-1]*x}\,dx+\sigma_r$|
+| 径向应力-外 | $\sigma_{r,o}$ |$(6/t^2)\int{-p[1/(\rho^2-1)]*[R_o^2/(R_m+x)^2-1]*x}\,dx+\sigma_r$|
 |$Tresca,inside$|$S.I._i$|$max[abs(\sigma_{t,i}-\sigma_{a,i}),abs(\sigma_{a,i}-\sigma_{r,i}),abs(\sigma_{r,i}-\sigma_{t,i})]$|
 |$Tresca,outside$|$S.I._o$|$max[abs(\sigma_{t,o}-\sigma_{a,o}),abs(\sigma_{a,o}-\sigma_{r,o}),abs(\sigma_{r,o}-\sigma_{t,o})]$|
 |$v.Mises,inside$|$S_{EQV,i}$|$[(1/2)*(\sigma_{t,i}-\sigma_{a,i})^2+(\sigma_{a,i}-\sigma_{r,i})^2+(\sigma_{r,i}-\sigma_{t,i})^2]^{1/2}$|

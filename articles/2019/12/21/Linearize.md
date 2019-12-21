@@ -1,3 +1,5 @@
+[首页](https://wshwwl.github.io)  [关于](https://wshwwl.github.io/about.html) 
+
 # 应力线性化
 
 [toc]

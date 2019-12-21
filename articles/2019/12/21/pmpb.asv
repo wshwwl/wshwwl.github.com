@@ -1,0 +1,52 @@
+% 四个节点的应力状态，依次为sx、sy、sz、sxy、syz、sxz
+sn1=[-0.25037E+08 -0.32145E+08 -0.79458E+07  0.28775E+08  0.0000      0.0000 ];
+sn2=[ 0.96907E+08  0.12621E+09  0.80323E+08 -0.12683E+09  0.0000      0.0000];
+sn3=[ 0.11512E+08  0.18354E+08  0.19262E+08 -0.12366E+08  0.0000      0.0000];
+sn4=[ 0.51497E+08  0.70925E+08  0.48394E+08 -0.62210E+08  0.0000      0.0000];
+S=[sn1;sn2;sn3;sn4];
+%各点坐标
+ln1=[0.792667608977E-001    1.66897695709         0.00000000000];
+ln2=[0.774554851510E-001    1.66747760283         0.00000000000];
+ln3=[0.786600643580E-001    1.66847985656         0.00000000000];
+ln4=[0.780563057757E-001    1.66798007181         0.00000000000];
+% 各点距离第一点的距离loc
+dis = @(loc1,loc2) sqrt(sum((loc1-loc2).^2));
+loc=[0,dis(ln1,ln2),dis(ln1,ln3),dis(ln1,ln4)];
+
+
+
+[sxm,sxb]=linearize(loc,S(:,1));
+[sym,syb]=linearize(loc,S(:,2));
+[szm,szb]=linearize(loc,S(:,3));
+[sxym,sxyb]=linearize(loc,S(:,4));
+[syzm,syzb]=linearize(loc,S(:,5));
+[sxzm,sxzb]=linearize(loc,S(:,6));
+
+[s1m,s2m,s3m]=s1s2s3([sxm,sym,szm,sxym,syzm,sxzm]);
+[s1b,s2b,s3b]=s1s2s3([sxb,syb,szb,sxyb,syzb,sxzb]);
+
+s1b_i=-s3b;
+s1b_o=s1b;
+
+s1t_i=s1s2s3(sn1);
+b=[=s1s2s3(n4);
+
+s1m
+s1b_i
+s1b_o
+s1t_i
+s1t_o
+
+function [pm,pb] = linearize( loc,stress )
+
+loc=reshape(loc,size(stress));
+t=diff(loc);
+T=sum(t);
+pm=sum(0.5*(stress(1:end-1)+stress(2:end)).*t)/T;
+
+l=(loc(1:end-1)+loc(2:end))/2-T/2; %相邻两节点距离路径中点的距离，范围为-T/2到T/2.
+f=(stress(1:end-1)+stress(2:end))/2;
+M=f.*l; %he
+pb=M*6/T^2;
+end
+

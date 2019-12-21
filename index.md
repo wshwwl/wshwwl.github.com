@@ -1,6 +1,8 @@
 # 大肉包菜包还有灌汤包~
 
 <p align="right"><a href="https://wshwwl.github.io/about.html">关于</a></p>
+* [应力线性化](.\articles\2019\12\21\Linearize.html)
+
 * [厚壁圆管应力评价](.\articles\2019\12\07\tube.html)
 
 * [反应谱求解的修正](.\articles\2019\12\04\Response2.html)

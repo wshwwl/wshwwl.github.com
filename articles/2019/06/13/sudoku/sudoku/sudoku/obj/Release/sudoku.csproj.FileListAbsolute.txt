@@ -1,7 +1,0 @@
-C:\Users\p175964\Desktop\sudoku\sudoku\sudoku\bin\Release\sudoku.exe.config
-C:\Users\p175964\Desktop\sudoku\sudoku\sudoku\bin\Release\sudoku.exe
-C:\Users\p175964\Desktop\sudoku\sudoku\sudoku\bin\Release\sudoku.pdb
-C:\Users\p175964\Desktop\sudoku\sudoku\sudoku\obj\Release\sudoku.csprojAssemblyReference.cache
-C:\Users\p175964\Desktop\sudoku\sudoku\sudoku\obj\Release\sudoku.csproj.CoreCompileInputs.cache
-C:\Users\p175964\Desktop\sudoku\sudoku\sudoku\obj\Release\sudoku.exe
-C:\Users\p175964\Desktop\sudoku\sudoku\sudoku\obj\Release\sudoku.pdb

@@ -1,0 +1,15 @@
+/prep7
+ALLS
+
+*get,ncount,node,,COUNT
+*get,nnum,node,,num,MIN
+
+*cfopen,'node',csv
+*cfwrite,'nx,ny'
+*do,i,1,ncount
+*vwrite,nx(nnum),ny(nnum)
+(f12.6,',',f12.6)
+nnum=NDNEXT(nnum)
+*enddo
+*cfclos
+	

@@ -1,0 +1,13 @@
+/prep7
+ALLS
+
+*get,ncount,node,,COUNT
+*get,nnum,node,,num,MIN
+*dim,node_temp,array,ncount,1
+*vread,node_temp,'node_temp','csv',,ijk
+(f12.6)
+
+*do,i,1,ncount
+bf,nnum,temp,node_temp(i)
+nnum=NDNEXT(nnum)
+*enddo

@@ -1,6 +1,8 @@
 # 大肉包菜包还有灌汤包~
 
 <p align="right"><a href="https://wshwwl.github.io/about.html">关于</a></p>
+* [三角级数法合成地震动](.\articles\2019\12\25\S2T.html)
+
 * [STAR-CCM+温度分布导入ANSYS Classic](.\articles\2019\12\24\Tmap.html)
 
 * [记一次木材的冲击试验](.\articles\2019\10\09\Impact.html)
@@ -24,6 +26,8 @@
 * [开始用Markdown记笔记](./articles/2018/03/25/markdown.html)
 
   
+
+
 
 
 

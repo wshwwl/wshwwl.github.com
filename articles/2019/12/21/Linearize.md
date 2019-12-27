@@ -82,7 +82,7 @@ $$
 $$
 其中$\sigma$为任意应力分量。因此外侧弯曲应力的大小为：
 $$
-\sigma_b=\frac{t^2}{6}\int_{-\frac{t}{2}}^{\frac{t}{2}}\sigma*x*dx
+\sigma_b=\frac{6}{t^2}\int_{-\frac{t}{2}}^{\frac{t}{2}}\sigma*x*dx
 $$
 
 ### 2.4 主应力、应力强度、等效应力

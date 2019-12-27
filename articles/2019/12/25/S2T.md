@@ -115,6 +115,7 @@ end
 [t,envelope]=GetEnvelope(fs,totalTime,risePeriod,stablePeriod,descendFactor);
 %% 合成
 for randomTimes=1:20
+	% 随机相位
     phase=2*pi*rand(nf+1,1);
     phase(end)=0;
     phase(1)=0;
@@ -125,11 +126,16 @@ for randomTimes=1:20
     for cicles=1:100
         vecf=phase.*Aw;
         at=[vecf;flipud(conj(vecf(2:end-1)))];
+        %逆变换合成时程
         at=ifft(at);
+        %乘以非平稳包络线
         atOutput=at(1:length(t)).*envelope';
-        Sat=tts3(dampRatio,freqSeries,atOutput,1/fs);
+        % 求解反应谱
+        Sat=tts(dampRatio,freqSeries,atOutput,1/fs);
+        %计算上下偏差
         biasu=(Sat-SseriesScaled)/maxSseriesScaled;
         biasb=(Sat)./SseriesScaled;
+        %如果偏差过大则调整傅里叶谱值
         if max(biasu)>toleranceUpward || min(biasb)<1-toleranceDownward
             blxs=SseriesScaled./Sat;
             xblxs=interp1(freqSeries,blxs,freqs,'linear','extrap');

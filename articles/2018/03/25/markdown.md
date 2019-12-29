@@ -1,6 +1,6 @@
-# Markdown
+[首页](https://wshwwl.github.io)  [关于](https://wshwwl.github.io/about.html) 
 
-## Markdown练习与备忘
+# Markdown练习与备忘
 
 [comment]:<> "一直没有整理和做笔记的习惯，没有总结总感觉在瞎学，决定使用Markdown来编辑笔记，并将其放在GitHub Pages上，希望自己能坚持下去。"
 
@@ -17,7 +17,7 @@
 ###### 标题6
 ```
 
-### 区块引用
+求解过程中，为使得生成的加速度时程曲线偏于保守，会在设计反应谱上乘以一个系数，一般在原有基础上增大10%，即放大系数取1.1。生成的加速度时程的反应谱则以放大放大后的设计谱为目标进行迭代，下图中生成的加速度反应谱与放大后的设计反应谱几乎重合。
 
 在每一行前面加上`>`，多个`>`号则为多级引用。
 
@@ -53,7 +53,9 @@
 它看起来像这样：
 
 * ListItem1
+
 + ListItem2
+
 - ListItem3
 
 ```markdown
@@ -80,7 +82,7 @@
 
 1. ListItem1
 
-	>This is a blockquote.
+   >This is a blockquote.
 
 2. ListItem2
 
@@ -129,6 +131,7 @@ function test() {
     console.log("Hello World");
 }
 ```
+
 ### 表格
 
 在Markdown里，表格写起来像这样：
@@ -160,8 +163,8 @@ function test() {
 
 | First Header | Second Header | Third Header |
 | :----------- | :-----------: | -----------: |
-| cell 1 1     | cell 1 2      | cell 1 3     |
-| cell 2 1     | cell 2 2      | cell 2 3     |
+| cell 1 1     |   cell 1 2    |     cell 1 3 |
+| cell 2 1     |   cell 2 2    |     cell 2 3 |
 
 ### 脚注
 

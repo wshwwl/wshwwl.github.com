@@ -1,0 +1,109 @@
+FINIS
+/CLEAR,START
+
+/PREP7
+et,1,181
+mp,ex,1,2e11
+mp,nuxy,1,0.3
+mp,dens,1,10239
+sect,1,shell,,
+secdata,0.2,1,0.0,3
+
+et,2,14
+KEYOPT,2,2,1
+r,2,1000000,1581*2
+et,3,14
+KEYOPT,3,2,2
+r,3,1000000,1581*2
+
+k,,-4494/2000
+k,,-1779.5/1000
+k,,-1459.5/1000
+k,,-1257.5/1000
+k,,-937.5/1000
+k,,-700.5/1000
+k,,-415.5/1000
+k,,308.5/1000
+k,,593.5/1000
+k,,830.5/1000
+k,,1150.5/1000
+k,,1450.5/1000
+k,,1770.5/1000
+k,,4494/2000
+k,,4494/2000,163*2/1000
+k,,-4494/2000,163*2/1000
+a,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+esize,0.05
+amesh,ALL
+
+n,10000,,-1
+type,2
+real,2
+*do,i,2,13
+ksel,s,,,%i%
+nslk,s
+*get,nnum,node,,num,MIN
+ALLS
+e,10000,nnum
+
+*enddo
+
+n,20000,,-1.5
+type,3
+real,3
+*do,i,2,13
+ksel,s,,,%i%
+nslk,s
+*get,nnum,node,,num,MIN
+ALLS
+e,20000,nnum
+
+*enddo
+
+ALLS
+d,10000,all,0
+d,20000,all,0
+d,all,uz,0
+
+
+/SOL
+ANTYPE,2
+MODOPT,LANB,5
+EQSLV,SPAR
+MXPAND,5,,,0
+LUMPM,0
+pstres,0
+MODOPT,LANB,5,1,10000, ,OFF 
+
+ALLS
+SOLVE
+FINISH
+
+/solu
+antype,harmic             ! harmonic analysis
+hropt,full                ! full harmonic response
+hrout,off                 ! print results as amplitudes and phase angles
+outpr,basic,1
+nsubst,100                 ! 30 intervals within freq. range
+harfrq,,30               ! frequency range from 0 to 7.5 hz
+kbc,1                     ! step boundary condition
+ALLS
+d,10000,all,0
+d,20000,all,0
+d,all,uz,0
+ACEL,1,0,0, 
+ALLS
+solve
+finish
+
+/post26
+nsol,2,355,u,x,2ux          ! store ux displacements
+
+/grid,1                   ! turn grid on
+/axlab,y,disp             ! y-axis label disp
+plvar,2,                ! display variables 2 and 3
+
+
+
+
+

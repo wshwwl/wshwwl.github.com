@@ -1,0 +1,2376 @@
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       12:05:02
+
+ *** WARNING ***                         CP =       5.179   TIME= 12:06:55
+ Shell Section GUI will not startup without any valid materials.         
+
+ *** ERROR ***                           CP =      11.731   TIME= 12:17:12
+ No keypoint listed for A command.                                       
+
+ *** ERROR ***                           CP =      11.794   TIME= 12:17:15
+ No keypoint listed for A command.                                       
+
+ *** WARNING ***                         CP =      12.106   TIME= 12:18:03
+ Shape testing revealed that 9 of the 91 new or modified elements        
+ violate shape warning limits.  To review test results, please see the   
+ output file or issue the CHECK command.                                 
+
+ *** ERROR ***                           CP =      18.954   TIME= 12:18:52
+ Starting number on the AMESHA command must be positive.                 
+
+ *** WARNING ***                         CP =      32.058   TIME= 15:36:12
+ Shape testing revealed that 9 of the 91 new or modified elements        
+ violate shape warning limits.  To review test results, please see the   
+ output file or issue the CHECK command.                                 
+
+ *** WARNING ***                         CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 92 ( COMBIN14 ) are not coincident.            
+
+ *** WARNING ***                         CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 93 ( COMBIN14 ) are not coincident.            
+
+ *** WARNING ***                         CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 94 ( COMBIN14 ) are not coincident.            
+
+ *** WARNING ***                         CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 95 ( COMBIN14 ) are not coincident.            
+
+ *** WARNING ***                         CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 96 ( COMBIN14 ) are not coincident.            
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 97 ( COMBIN14 ) are not coincident.            
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 98 ( COMBIN14 ) are not coincident.            
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 99 ( COMBIN14 ) are not coincident.            
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 100 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 101 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 102 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 103 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 104 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 105 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 106 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 107 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 108 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 109 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 110 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 111 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 112 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 113 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 114 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Nodes I and J of element 115 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      32.167   TIME= 15:36:12
+ Previous testing revealed that 9 of the 115 selected elements violate   
+ shape warning limits.  To review warning messages, please see the       
+ output or error file, or issue the CHECK command.                       
+
+ *** WARNING ***                         CP =      33.556   TIME= 15:36:54
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      33.556   TIME= 15:36:55
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      36.395   TIME= 15:39:42
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =      36.816   TIME= 15:40:36
+ The modal analysis has no mass.                                         
+
+ *** WARNING ***                         CP =      37.315   TIME= 15:40:40
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      37.315   TIME= 15:40:40
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      37.315   TIME= 15:40:40
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      37.315   TIME= 15:40:40
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      37.315   TIME= 15:40:40
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.315   TIME= 15:40:40
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.315   TIME= 15:40:40
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.315   TIME= 15:40:40
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.315   TIME= 15:40:40
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.315   TIME= 15:40:40
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.347   TIME= 15:40:40
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.347   TIME= 15:40:40
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.347   TIME= 15:40:40
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.347   TIME= 15:40:40
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.347   TIME= 15:40:40
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.347   TIME= 15:40:40
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.347   TIME= 15:40:40
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.347   TIME= 15:40:40
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.347   TIME= 15:40:40
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.347   TIME= 15:40:40
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.347   TIME= 15:40:40
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.347   TIME= 15:40:40
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.347   TIME= 15:40:40
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      37.347   TIME= 15:40:40
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =      37.783   TIME= 15:40:41
+ The modal analysis has no mass.                                         
+
+ *** WARNING ***                         CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      40.981   TIME= 15:42:41
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** ERROR ***     SUPPRESSED MESSAGE    CP =      41.449   TIME= 15:42:43
+ The modal analysis has no mass.                                         
+
+ *** ERROR ***                           CP =      41.933   TIME= 15:42:50
+ An error occurred while attempting to open the results file file.rst.   
+
+ *** ERROR ***                           CP =      42.042   TIME= 15:42:51
+ No results file available.                                              
+
+ *** WARNING ***                         CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.041   TIME= 15:44:47
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      43.477   TIME= 15:44:51
+ There is an inertial load specified with the ACEL, OMEGA, etc commands, 
+ but there is no mass in the model for it to act against.  Therefore,    
+ the inertial load will be ignored.                                      
+
+ *** WARNING ***                         CP =      47.627   TIME= 15:46:10
+ No volumes defined.                                                     
+
+ *** WARNING ***                         CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      49.390   TIME= 15:48:38
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      56.550   TIME= 15:52:49
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      59.140   TIME= 15:53:33
+ No volumes defined.                                                     
+
+ *** WARNING ***                         CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      60.123   TIME= 15:56:42
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      61.558   TIME= 15:57:22
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      64.460   TIME= 16:00:29
+ No volumes defined.                                                     
+
+ *** WARNING ***                         CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      65.739   TIME= 16:08:42
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      66.784   TIME= 16:09:03
+ The degree of freedom solution is not available.  The PLDISP command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      66.800   TIME= 16:09:03
+ Scaling factor undefined - perform PLDISP to establish default value.   
+
+ *** WARNING ***                         CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      71.573   TIME= 16:18:10
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      76.815   TIME= 16:26:25
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      76.815   TIME= 16:26:25
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      76.815   TIME= 16:26:25
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      76.815   TIME= 16:26:25
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      76.815   TIME= 16:26:25
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.815   TIME= 16:26:25
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.830   TIME= 16:26:25
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.830   TIME= 16:26:25
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.830   TIME= 16:26:25
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.830   TIME= 16:26:25
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.830   TIME= 16:26:25
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.830   TIME= 16:26:25
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.830   TIME= 16:26:25
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.830   TIME= 16:26:25
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.830   TIME= 16:26:25
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.830   TIME= 16:26:25
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.830   TIME= 16:26:25
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.830   TIME= 16:26:25
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.830   TIME= 16:26:25
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.830   TIME= 16:26:25
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.830   TIME= 16:26:25
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.830   TIME= 16:26:25
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.830   TIME= 16:26:25
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      76.830   TIME= 16:26:25
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      81.199   TIME= 16:31:53
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** ERROR ***                           CP =      81.635   TIME= 16:31:54
+ The analysis type must not be changed after the first load step.  For a 
+ new analysis, enter the FINISH command now and reenter using the        
+ /SOLUTION command.                                                      
+
+ *** WARNING ***                         CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      82.961   TIME= 16:32:21
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      83.695   TIME= 16:32:21
+ ALL is not a recognized SOLUTION command, abbreviation, or macro.       
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      83.835   TIME= 16:32:21
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      92.618   TIME= 16:32:37
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      93.195   TIME= 16:32:37
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     101.182   TIME= 16:32:50
+ PRVAR is not a recognized BEGIN command, abbreviation, or macro.  This  
+ command will be ignored.                                                
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     101.822   TIME= 16:34:56
+ Cannot change number of variables with data stored.  The NUMVAR command 
+ is ignored.                                                             
+
+ *** WARNING ***                         CP =     101.822   TIME= 16:34:56
+ The variable viewer requires a NUMVAR of 200.  The calculator will not  
+ be available.  To use the caclulator please export your data to a       
+ file; then choose the 'Clear Time-History Data' button; and then        
+ import your data from the file.                                         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     103.631   TIME= 16:36:27
+ Cannot change number of variables with data stored.  The NUMVAR command 
+ is ignored.                                                             
+
+ *** WARNING ***                         CP =     103.631   TIME= 16:36:27
+ The variable viewer requires a NUMVAR of 200.  The calculator will not  
+ be available.  To use the caclulator please export your data to a       
+ file; then choose the 'Clear Time-History Data' button; and then        
+ import your data from the file.                                         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     104.848   TIME= 16:36:38
+ Cannot change number of variables with data stored.  The NUMVAR command 
+ is ignored.                                                             
+
+ *** WARNING ***                         CP =     104.848   TIME= 16:36:38
+ The variable viewer requires a NUMVAR of 200.  The calculator will not  
+ be available.  To use the caclulator please export your data to a       
+ file; then choose the 'Clear Time-History Data' button; and then        
+ import your data from the file.                                         
+
+ *** WARNING ***                         CP =     105.769   TIME= 16:36:45
+ Invalid result variable 191 maximum = 10.  The FILLDATA command is      
+ ignored.                                                                
+
+ *** WARNING ***                         CP =     105.800   TIME= 16:36:45
+ Invalid result variable 191 maximum = 10.  The REALVAR command is       
+ ignored.                                                                
+
+ *** WARNING ***                         CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     107.391   TIME= 16:39:38
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     108.015   TIME= 16:39:38
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     108.015   TIME= 16:39:38
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     108.015   TIME= 16:39:38
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     108.015   TIME= 16:39:38
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     108.015   TIME= 16:39:38
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.015   TIME= 16:39:38
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.015   TIME= 16:39:38
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.015   TIME= 16:39:38
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.015   TIME= 16:39:38
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.015   TIME= 16:39:38
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.015   TIME= 16:39:38
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.015   TIME= 16:39:38
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.015   TIME= 16:39:38
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.015   TIME= 16:39:38
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.015   TIME= 16:39:38
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.046   TIME= 16:39:38
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.046   TIME= 16:39:38
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.046   TIME= 16:39:38
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.046   TIME= 16:39:38
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.046   TIME= 16:39:38
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.046   TIME= 16:39:38
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.046   TIME= 16:39:38
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.046   TIME= 16:39:38
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     108.046   TIME= 16:39:38
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     133.630   TIME= 16:39:56
+ Cannot change number of variables with data stored.  The NUMVAR command 
+ is ignored.                                                             
+
+ *** WARNING ***                         CP =     133.630   TIME= 16:39:56
+ The variable viewer requires a NUMVAR of 200.  The calculator will not  
+ be available.  To use the caclulator please export your data to a       
+ file; then choose the 'Clear Time-History Data' button; and then        
+ import your data from the file.                                         
+
+ *** WARNING ***                         CP =     134.598   TIME= 16:40:06
+ Invalid result variable 191 maximum = 10.  The FILLDATA command is      
+ ignored.                                                                
+
+ *** WARNING ***                         CP =     134.644   TIME= 16:40:06
+ Invalid result variable 191 maximum = 10.  The REALVAR command is       
+ ignored.                                                                
+
+ *** WARNING ***                         CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     138.576   TIME= 16:41:22
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     140.651   TIME= 17:01:10
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     141.337   TIME= 17:01:10
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     167.327   TIME= 17:03:51
+ Cannot change number of variables with data stored.  The NUMVAR command 
+ is ignored.                                                             
+
+ *** WARNING ***                         CP =     167.327   TIME= 17:03:51
+ The variable viewer requires a NUMVAR of 200.  The calculator will not  
+ be available.  To use the caclulator please export your data to a       
+ file; then choose the 'Clear Time-History Data' button; and then        
+ import your data from the file.                                         
+
+ *** WARNING ***                         CP =     168.341   TIME= 17:03:58
+ Invalid result variable 191 maximum = 10.  The FILLDATA command is      
+ ignored.                                                                
+
+ *** WARNING ***                         CP =     168.356   TIME= 17:03:58
+ Invalid result variable 191 maximum = 10.  The REALVAR command is       
+ ignored.                                                                
+
+ *** WARNING ***                         CP =     175.298   TIME= 17:13:31
+ Nodes I and J of element 109 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     175.298   TIME= 17:13:31
+ Nodes I and J of element 110 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     175.298   TIME= 17:13:31
+ Nodes I and J of element 111 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     175.298   TIME= 17:13:31
+ Nodes I and J of element 112 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     178.465   TIME= 17:19:22
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     179.027   TIME= 17:19:23
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     205.001   TIME= 17:19:41
+ Nodes I and J of element 109 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     205.001   TIME= 17:19:41
+ Nodes I and J of element 110 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     205.001   TIME= 17:19:41
+ Nodes I and J of element 111 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     205.001   TIME= 17:19:41
+ Nodes I and J of element 112 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     205.375   TIME= 17:19:41
+ Nodes I and J of element 109 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     205.375   TIME= 17:19:41
+ Nodes I and J of element 110 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     205.375   TIME= 17:19:41
+ Nodes I and J of element 111 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     205.375   TIME= 17:19:41
+ Nodes I and J of element 112 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     213.035   TIME= 22:04:40
+ /CLEAR is not a recognized POST26 command, abbreviation, or macro.      
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =     213.737   TIME= 22:04:41
+ Initial attempt to mesh area 2 was unsuccessful.  Automatically         
+ attempting to correct and remesh.  (5).                                 
+
+ *** ERROR ***                           CP =     213.815   TIME= 22:04:41
+ Error meshing area 2.  Boundary segments touch or are too close for     
+ meshing.  Redefine number of divisions on boundary or adjust element    
+ size parameters.                                                        
+
+ *** ERROR ***                           CP =     214.548   TIME= 22:04:43
+ Element 118 does not have all of its required nodes defined.  The E     
+ command is aborted.                                                     
+
+ *** ERROR ***                           CP =     215.203   TIME= 22:04:48
+ The E command cannot store element 118, possibly because one or more    
+ nodes is not defined.                                                   
+
+ *** ERROR ***                           CP =     215.703   TIME= 22:04:52
+ Element 123 does not have all of its required nodes defined.  The E     
+ command is aborted.                                                     
+
+ *** ERROR ***                           CP =     216.327   TIME= 22:04:54
+ The E command cannot store element 123, possibly because one or more    
+ nodes is not defined.                                                   
+
+ *** WARNING ***                         CP =     217.060   TIME= 22:04:56
+ Nodes I and J of element 109 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     217.060   TIME= 22:04:56
+ Nodes I and J of element 110 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     217.060   TIME= 22:04:56
+ Nodes I and J of element 111 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     217.060   TIME= 22:04:56
+ Nodes I and J of element 112 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     217.060   TIME= 22:04:56
+ Nodes I and J of element 113 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     217.060   TIME= 22:04:56
+ Nodes I and J of element 114 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     217.060   TIME= 22:04:56
+ Nodes I and J of element 115 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     217.060   TIME= 22:04:56
+ Nodes I and J of element 116 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     217.060   TIME= 22:04:56
+ Nodes I and J of element 117 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     217.060   TIME= 22:04:56
+ Nodes I and J of element 118 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     217.060   TIME= 22:04:56
+ Nodes I and J of element 119 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     217.060   TIME= 22:04:56
+ Nodes I and J of element 120 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     217.060   TIME= 22:04:56
+ Nodes I and J of element 121 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     217.060   TIME= 22:04:56
+ Nodes I and J of element 122 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     217.497   TIME= 22:04:57
+ Element order list length 112 does not match number of selected         
+ elements 122                                                            
+  New order vector being created.                                        
+
+ *** WARNING ***                         CP =     222.270   TIME= 22:05:07
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     222.270   TIME= 22:05:07
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     222.270   TIME= 22:05:07
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     222.270   TIME= 22:05:07
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     222.286   TIME= 22:05:07
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     231.349   TIME= 22:20:10
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     231.381   TIME= 22:20:10
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 703 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 704 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 705 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 706 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 707 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 708 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 709 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 710 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 711 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 712 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 713 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 714 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 715 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 716 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 717 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 718 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 719 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 720 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 721 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 722 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 723 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 724 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 725 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     232.192   TIME= 22:20:11
+ Nodes I and J of element 726 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     259.320   TIME= 22:21:32
+ Cannot change number of variables with data stored.  The NUMVAR command 
+ is ignored.                                                             
+
+ *** WARNING ***                         CP =     259.320   TIME= 22:21:32
+ The variable viewer requires a NUMVAR of 200.  The calculator will not  
+ be available.  To use the caclulator please export your data to a       
+ file; then choose the 'Clear Time-History Data' button; and then        
+ import your data from the file.                                         
+
+ *** WARNING ***                         CP =     263.408   TIME= 22:30:56
+ Nodes I and J of element 110 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     263.408   TIME= 22:30:56
+ Nodes I and J of element 111 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     263.408   TIME= 22:30:56
+ Nodes I and J of element 112 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     263.408   TIME= 22:30:56
+ Nodes I and J of element 113 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     263.891   TIME= 22:30:56
+ Nodes I and J of element 110 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     263.891   TIME= 22:30:56
+ Nodes I and J of element 111 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     263.891   TIME= 22:30:56
+ Nodes I and J of element 112 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     263.891   TIME= 22:30:56
+ Nodes I and J of element 113 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     270.896   TIME= 22:41:23
+ Cannot change number of variables with data stored.  The NUMVAR command 
+ is ignored.                                                             
+
+ *** WARNING ***                         CP =     270.896   TIME= 22:41:23
+ The variable viewer requires a NUMVAR of 200.  The calculator will not  
+ be available.  To use the caclulator please export your data to a       
+ file; then choose the 'Clear Time-History Data' button; and then        
+ import your data from the file.                                         
+
+ *** WARNING ***                         CP =     287.775   TIME= 23:03:03
+ Nodes I and J of element 151 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     287.775   TIME= 23:03:03
+ Nodes I and J of element 152 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     287.775   TIME= 23:03:03
+ Nodes I and J of element 153 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     287.775   TIME= 23:03:03
+ Nodes I and J of element 154 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     288.259   TIME= 23:03:03
+ Nodes I and J of element 151 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     288.259   TIME= 23:03:03
+ Nodes I and J of element 152 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     288.259   TIME= 23:03:03
+ Nodes I and J of element 153 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***                         CP =     288.259   TIME= 23:03:03
+ Nodes I and J of element 154 ( COMBIN14 ) are not coincident.           
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     295.513   TIME= 23:03:18
+ Cannot change number of variables with data stored.  The NUMVAR command 
+ is ignored.                                                             
+
+ *** WARNING ***                         CP =     295.513   TIME= 23:03:18
+ The variable viewer requires a NUMVAR of 200.  The calculator will not  
+ be available.  To use the caclulator please export your data to a       
+ file; then choose the 'Clear Time-History Data' button; and then        
+ import your data from the file.                                         
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =     299.959   TIME= 23:23:12
+ Cannot change number of variables with data stored.  The NUMVAR command 
+ is ignored.                                                             
+
+ *** WARNING ***                         CP =     299.959   TIME= 23:23:12
+ The variable viewer requires a NUMVAR of 200.  The calculator will not  
+ be available.  To use the caclulator please export your data to a       
+ file; then choose the 'Clear Time-History Data' button; and then        
+ import your data from the file.                                         
+
+ *** WARNING ***                         CP =     301.082   TIME= 23:23:20
+ Invalid result variable 191 maximum = 10.  The FILLDATA command is      
+ ignored.                                                                
+
+ *** WARNING ***                         CP =     301.176   TIME= 23:23:20
+ Invalid result variable 191 maximum = 10.  The REALVAR command is       
+ ignored.                                                                
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       18:32:13

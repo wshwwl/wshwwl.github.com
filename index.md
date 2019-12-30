@@ -1,9 +1,9 @@
 # 大肉包菜包还有灌汤包~
 
 <p align="right"><a href="https://wshwwl.github.io/about.html">关于</a></p>
-
+| [隔振设计（一）  隔振系统的幅频特性](.\articles\2019\12\31\antiseismic1.html) |
+| :----------------------------------------------------------- |
 | [Python自动翻页截图脚本](.\articles\2019\12\30\capture.html) |
-| ------------------------------------------------------------ |
 | [时程转反应谱软件](.\articles\2019\12\29\T2S.html)           |
 | [反应谱转时程程序（Matlab APP）](.\articles\2019\12\28\S2T_APP.html) |
 | [ANSYS二次开发初探：C#与tcl程序通过Socket传递命令](.\articles\2019\12\27\Socket.html) |

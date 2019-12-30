@@ -1,0 +1,1757 @@
+/BATCH  
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       12:05:03
+/input,menust,tmp,''
+/GRA,POWER
+/GST,ON
+/PLO,INFO,3
+/GRO,CURL,ON
+/CPLANE,1   
+/REPLOT,RESIZE  
+WPSTYLE,,,,,,,,0
+/PREP7  
+!*  
+!*  
+ET,1,SHELL181   
+!*  
+!*  
+!*  
+!*  
+!*  
+!*  
+MPTEMP,,,,,,,,  
+MPTEMP,1,0  
+MPDATA,EX,1,,2e11   
+MPDATA,PRXY,1,,0.3  
+sect,1,shell,,  
+secdata, 0.2,1,0.0,3
+secoffset,MID   
+seccontrol,,,, , , ,
+SECPLOT,   1,,, 
+sect,1,shell,,  
+secdata, 0.2,1,0.0,3
+secoffset,MID   
+seccontrol,,,, , , ,
+nplot   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/AUTO,1 
+/REP,FAST   
+sect,1,shell,,  
+secdata, 0.2,1,0.0,3
+secoffset,MID   
+seccontrol,,,, , , ,
+/USER,  1   
+/REPLO  
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/FOC,   1,  0.107777280177    ,  0.183711273029E-01,   0.00000000000
+/REPLO  
+kplot   
+/AUTO,1 
+/REP,FAST   
+/USER,  1   
+/FOC,   1,  0.429000009298E-01,  0.148500003219E-01,   0.00000000000
+/REPLO  
+kplot   
+kplot   
+/VIEW,  1,  0.355343804192    ,  0.203904932879    ,  0.912224511384
+/ANG,   1,   2.00713351078  
+/REPLO  
+klist   
+sect,1,shell,,  
+secdata, 0.2,1,0.0,3
+secoffset,MID   
+seccontrol,,,, , , ,
+/REPLO  
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+kplot   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+klist   
+k,,1
+kplott,,,,,,,,,1
+FINIS   
+/CLEAR,START
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       12:15:34
+/input,start,ans,'C:\Program Files\ANSYS Inc\v171\ANSYS\apdl\'  
+/PREP7  
+et,1,181
+mp,ex,1,2e11
+mp,nuxy,1,0.3   
+sect,1,shell,,  
+secdata,0.2,1,0.0,3 
+k,,-4494/2000   
+kplott,,,,,,,,,1
+k,,-1779.5/1000 
+kplott,,,,,,,,,1
+k,,1459.5/1000  
+kplott,,,,,,,,,1
+k,,1257.5/1000  
+k,,937.5/1000   
+k,,700.5/1000   
+k,,415.5/1000   
+k,,308.5/1000   
+k,,593.5/1000   
+k,,830.5/1000   
+k,,1150.5/1000  
+k,,1450.5/1000  
+k,,1770.5/1000  
+kplott,,,,,,,,,1
+k,,4494/2000
+kplott,,,,,,,,,1
+/USER,  1   
+/VIEW,  1, -0.120124441071    , -0.209082089150E-01,  0.992538646833
+/ANG,   1,  0.517895827941E-01  
+/REPLO  
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/VIEW,1,,,1 
+/ANG,1  
+/REP,FAST   
+/AUTO,1 
+/REP,FAST   
+/USER,  1   
+/VIEW,  1,  0.176408711046    ,  0.140253275030    ,  0.974273568106
+/ANG,   1,  0.639960064801  
+/REPLO  
+/VIEW,  1,  0.210041096510    ,  0.237368114590    ,  0.948440359724
+/ANG,   1,   1.07117322862  
+/REPLO  
+/VIEW,  1,  0.231469661511    ,  0.327149522941    ,  0.916185017035
+/ANG,   1,   1.54658767747  
+/REPLO  
+/VIEW,  1,  0.594594112334    ,  0.387734824329    ,  0.704357542432
+/ANG,   1,   11.1298262040  
+/REPLO  
+/VIEW,  1,  0.753253465544    ,  0.430061267734    ,  0.497651004863
+/ANG,   1,   17.8972872358  
+/REPLO  
+/VIEW,  1,  0.767062186217    ,  0.459592870561    ,  0.447649411712
+/ANG,   1,   19.3151269350  
+/REPLO  
+/VIEW,  1,  0.770229691042    ,  0.458048448889    ,  0.443776792439
+/ANG,   1,   19.4612570459  
+/REPLO  
+FINIS   
+/CLEAR,START
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       12:16:05
+/input,start,ans,'C:\Program Files\ANSYS Inc\v171\ANSYS\apdl\'  
+/PREP7  
+et,1,181
+mp,ex,1,2e11
+mp,nuxy,1,0.3   
+sect,1,shell,,  
+secdata,0.2,1,0.0,3 
+k,,-4494/2000   
+kplott,,,,,,,,,1
+k,,-1779.5/1000 
+kplott,,,,,,,,,1
+k,,-1459.5/1000 
+kplott,,,,,,,,,1
+k,,-1257.5/1000 
+kplott,,,,,,,,,1
+k,,-937.5/1000  
+kplott,,,,,,,,,1
+k,,-700.5/1000  
+kplott,,,,,,,,,1
+k,,-415.5/1000  
+kplott,,,,,,,,,1
+k,,308.5/1000   
+kplott,,,,,,,,,1
+k,,593.5/1000   
+kplott,,,,,,,,,1
+k,,830.5/1000   
+kplott,,,,,,,,,1
+k,,1150.5/1000  
+kplott,,,,,,,,,1
+k,,1450.5/1000  
+kplott,,,,,,,,,1
+k,,1770.5/1000  
+kplott,,,,,,,,,1
+k,,4494/2000
+kplott,,,,,,,,,1
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+FINIS   
+/CLEAR,START
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       12:16:57
+/input,start,ans,'C:\Program Files\ANSYS Inc\v171\ANSYS\apdl\'  
+/PREP7  
+et,1,181
+mp,ex,1,2e11
+mp,nuxy,1,0.3   
+sect,1,shell,,  
+secdata,0.2,1,0.0,3 
+k,,-4494/2000   
+kplott,,,,,,,,,1
+k,,-1779.5/1000 
+kplott,,,,,,,,,1
+k,,-1459.5/1000 
+kplott,,,,,,,,,1
+k,,-1257.5/1000 
+kplott,,,,,,,,,1
+k,,-937.5/1000  
+kplott,,,,,,,,,1
+k,,-700.5/1000  
+kplott,,,,,,,,,1
+k,,-415.5/1000  
+kplott,,,,,,,,,1
+k,,308.5/1000   
+kplott,,,,,,,,,1
+k,,593.5/1000   
+kplott,,,,,,,,,1
+k,,830.5/1000   
+kplott,,,,,,,,,1
+k,,1150.5/1000  
+kplott,,,,,,,,,1
+k,,1450.5/1000  
+kplott,,,,,,,,,1
+k,,1770.5/1000  
+kplott,,,,,,,,,1
+k,,4494/2000
+kplott,,,,,,,,,1
+k,,4494/2000,163*2/1000 
+kplott,,,,,,,,,1
+k,,-4494/2000,163*2/1000
+a,al
+a,all   
+a,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+amesh,all   
+eplott  
+aclear,all  
+esize,0.01  
+amesh,all   
+eplott  
+aclear,all  
+esize,0.1   
+amesh,all   
+eplott  
+aclear,all  
+esize,0.05  
+amesha,ll   
+amesh,all   
+eplott  
+!*  
+ET,2,COMBIN14   
+!*  
+!*  
+!*  
+KEYOPT,2,1,0
+KEYOPT,2,2,1
+KEYOPT,2,3,0
+!*  
+et,2,14 
+KEYOPT,2,2,1
+et,3,14 
+KEYOPT,3,2,2
+kplot   
+/USER,  1   
+/REPLO  
+/PNUM,KP,1  
+/PNUM,LINE,0
+/PNUM,AREA,0
+/PNUM,VOLU,0
+/PNUM,NODE,0
+/PNUM,TABN,0
+/PNUM,SVAL,0
+/NUMBER,0   
+!*  
+/PNUM,ELEM,0
+/REPLOT 
+!*  
+R,2,500000,1581, , , , ,
+RMORE, ,
+!*  
+et,2,14 
+KEYOPT,2,2,1
+r,2,500000,1581 
+et,3,14 
+KEYOPT,3,2,2
+r,3,500000,1581 
+!*  
+!*  
+*GET,aa,NODE,,NUM,MIN, , , ,
+n,10000,,-0.1   
+type,2  
+real,2  
+*do,i,2,13  
+ksel,s,,,%i%
+nslk,s  
+*get,nnum,node,,num,MIN 
+ALLS
+e,10000,nnum
+*enddo  
+/ZOOM,1,RECT,-0.778886,0.100116 ,0.483871925263 ,-0.222209292234
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+eplot   
+/ZOOM,1,RECT,-0.0681266,0.173372 ,1.30209975805 ,-0.170930224796
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+n,20000,,-0.2   
+type,3  
+real,3  
+*do,i,2,13  
+ksel,s,,,%i%
+nslk,s  
+*get,nnum,node,,num,MIN 
+ALLS
+e,20000,nnum
+*enddo  
+eplot   
+ALLS
+d,10000,all,0   
+d,20000,all,0   
+d,all,uz,0  
+nsel,s,loc,x,4494/2000, 
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/ZOOM,1,RECT,1.15555,0.239302 ,1.47551520918 ,-0.234418594005   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,  1,   1.45060078689  
+/ANG,   1,   106.500000000  
+/REPLO  
+/DIST,  1,   1.52103351879  
+/ANG,   1,   7.20000000000  
+/REPLO  
+/FOC,   1,   1.17020846715    ,  0.877882482742E-01,   0.00000000000
+/REPLO  
+/DIST,  1,   1.35315627971  
+/ANG,   1,   92.1000000000  
+/REPLO  
+/DIST,  1,   1.40768998431  
+/ANG,   1,  -42.0000000000  
+/REPLO  
+/FOC,   1,  0.573401904176    , -0.230794800490    ,   0.00000000000
+/REPLO  
+/DIST,  1,   1.42560076871  
+/ANG,   1,  -9.60000000000  
+/REPLO  
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/FOC,   1,  0.282138205589    ,  0.648780153745E-02,   0.00000000000
+/REPLO  
+input   
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       15:36:53
+input   
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       15:36:58
+FINISH  
+/POST1  
+!*  
+/EFACET,1   
+PLNSOL, U,Y, 0,1.0  
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+FINISH  
+/SOL
+!*  
+ANTYPE,3
+!*  
+!*  
+ANTYPE,2
+!*  
+!*  
+MODOPT,LANB,5   
+EQSLV,SPAR  
+MXPAND,5, , ,0  
+LUMPM,0 
+PSTRES,0
+!*  
+MODOPT,LANB,5,0,100, ,OFF   
+/STATUS,SOLU
+SOLVE   
+/STATUS,SOLU
+SOLVE   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+ALLS
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+!*  
+ANTYPE,2
+!*  
+EXPASS,0
+!*  
+!*  
+MODOPT,LANB,5   
+EQSLV,SPAR  
+MXPAND,5, , ,0  
+LUMPM,0 
+PSTRES,0
+!*  
+MODOPT,LANB,5,1,100, ,OFF   
+!*  
+!*  
+MODOPT,LANB,5   
+EQSLV,SPAR  
+MXPAND,5, , ,0  
+LUMPM,0 
+PSTRES,0
+!*  
+MODOPT,LANB,5,1,10000, ,OFF 
+ALLS
+d,10000,all,0   
+d,20000,all,0   
+d,all,uz,0  
+/USER,  1   
+/REPLO  
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+ALLS
+/STATUS,SOLU
+SOLVE   
+FINISH  
+/POST1  
+SET,LIST
+FINISH  
+/SOL
+!*  
+ANTYPE,0
+ACEL,0,9.8,0,   
+/STATUS,SOLU
+SOLVE   
+FINISH  
+/POST1  
+!*  
+/EFACET,1   
+PLNSOL, U,SUM, 0,1.0
+/FOC,   1,   2.69266884807    ,  0.712954549534    ,   0.00000000000
+/REPLO  
+/FOC,   1,  0.342386771628    , -0.128504465488    ,   0.00000000000
+/REPLO  
+/FOC,   1,  0.179898134244    , -0.209748784180    ,   0.00000000000
+/REPLO  
+/VIEW,  1, -0.263639694593    , -0.320224029961    ,  0.909917953483
+/ANG,   1,   2.53057097255  
+/REPLO  
+/VIEW,  1, -0.568520993346    , -0.210720428653    ,  0.795223730200
+/ANG,   1,   7.43480153117  
+/REPLO  
+/VIEW,  1,  0.743417804585    , -0.621614838703E-01,  0.665932367249
+/ANG,   1,  -7.39464618365  
+/REPLO  
+/VIEW,  1,  0.694800416930    ,  0.267857148567    ,  0.667461555893
+/ANG,   1,  -8.08376545891  
+/REPLO  
+/VIEW,  1,  0.969082185811    ,  0.176622432528    ,  0.172291129987
+/ANG,   1, -0.973769230692  
+/REPLO  
+/VIEW,  1,  0.788982771568    ,  0.112791743800    , -0.603973682125
+/ANG,   1,   5.85885299231  
+/REPLO  
+/VIEW,  1,  0.370697666054    , -0.193033706219E-01,  0.928552971168
+/ANG,   1,  -9.14290027192  
+/REPLO  
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,0.924021086472,1
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+esel,s,type,,1  
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/VIEW,  1,  0.800435207430    ,  0.292221418880    ,  0.523364233640
+/ANG,   1,  -3.84389350074  
+/REPLO  
+!*  
+/EFACET,1   
+PLNSOL, U,Y, 0,1.0  
+/VIEW,  1,  0.166135481833    , -0.301704014115E-01,  0.985641287972
+/ANG,   1,  -11.1455781591  
+/REPLO  
+/VIEW,  1, -0.807249259808E-01, -0.187074730292    ,  0.979023253867
+/ANG,   1,  -9.60816352905  
+/REPLO  
+/VIEW,  1,  0.490640896464    ,  0.154498041008    ,  0.857555750982
+/ANG,   1,  -10.9807456487  
+/REPLO  
+FINISH  
+/PREP7  
+GSUM
+FINISH  
+/SOL
+!*  
+ANTYPE,2
+!*  
+!*  
+MODOPT,LANB,5   
+EQSLV,SPAR  
+MXPAND,5, , ,0  
+LUMPM,0 
+PSTRES,0
+!*  
+MODOPT,LANB,5,1,10000, ,OFF 
+input   
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       15:48:40
+FINISH  
+/POST1  
+SET,LIST
+SET,FIRST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+!*  
+/EFACET,1   
+PLNSOL, U,SUM, 0,1.0
+!*  
+PLDI, , 
+ANMODE,20,0.5, ,0   
+!*  
+SET,NEXT
+!*  
+PLDI, , 
+ANMODE,20,0.5, ,0   
+!*  
+SET,NEXT
+!*  
+PLDI, , 
+ANMODE,20,0.5, ,0   
+!*  
+input   
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       15:52:51
+FINISH  
+/POST1  
+SET,FIRST   
+SET,LIST
+SET,FIRST   
+!*  
+PLDI, , 
+ANMODE,10,0.5, ,0   
+!*  
+FINISH  
+/PREP7  
+GSUM
+input   
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       15:56:45
+FINISH  
+/POST1  
+SET,LIST
+input   
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       15:57:24
+FINISH  
+/POST1  
+SET,LIST
+SET,FIRST   
+!*  
+PLDI, , 
+ANMODE,20,0.5, ,0   
+!*  
+FINISH  
+/PREP7  
+kplot   
+KDIST,       1,      14 
+GSUM
+/ZOOM,1,RECT,0.26405,0.0683721 ,0.627977722679 ,-0.336976728883 
+eplot   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+input   
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       16:08:45
+FINISH  
+/POST1  
+SET,LIST
+!*  
+PLDI, , 
+ANMODE,20,0.5, ,0   
+!*  
+SET,FIRST   
+!*  
+PLDI, , 
+ANMODE,20,0.5, ,0   
+!*  
+SET,FIRST   
+FINISH  
+/SOL
+!*  
+ANTYPE,3
+!*  
+!*  
+HROPT,MSUP, , ,0
+HROUT,OFF   
+LUMPM,0 
+!*  
+HROPT,MSUP,5,1,0
+HROUT,OFF,OFF,0 
+!*  
+ACEL,0,x,0, 
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+ACEL,1,0,0, 
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/STATUS,SOLU
+SOLVE   
+FINISH  
+/POST1  
+SET,LIST
+FINISH  
+/POST26 
+eplotT  
+FILE,'file','rst','.'   
+/UI,COLL,1  
+NUMVAR,200  
+SOLU,191,NCMIT  
+STORE,MERGE 
+FILLDATA,191,,,,1,1 
+REALVAR,191,191 
+!*  
+NSOL,2,354,U,X, UX_2,   
+STORE,MERGE 
+XVAR,1  
+PLVAR,2,
+FINISH  
+/PREP7  
+FINISH  
+/POST1  
+FINISH  
+/SOL
+!*  
+ANTYPE,3
+!*  
+!*  
+HROPT,MSUP, , ,0
+HROUT,OFF   
+LUMPM,0 
+!*  
+!*  
+!*  
+HROPT,FULL  
+HROUT,OFF   
+LUMPM,0 
+!*  
+EQSLV, ,0,  
+PSTRES,0
+!*  
+!*  
+!*  
+HROPT,MSUP, , ,0
+HROUT,OFF   
+LUMPM,0 
+!*  
+HROPT,MSUP,5,1,0
+HROUT,OFF,OFF,0 
+!*  
+!*  
+OUTPR,BASIC,LAST,   
+HARFRQ,0,30,
+NSUBST,100, 
+KBC,1   
+!*  
+ACEL,1,0,0, 
+/STATUS,SOLU
+SOLVE   
+FINISH  
+/POST26 
+eplotT  
+FILE,'file','rst','.'   
+/UI,COLL,1  
+NUMVAR,200  
+SOLU,191,NCMIT  
+STORE,MERGE 
+FILLDATA,191,,,,1,1 
+REALVAR,191,191 
+!*  
+NSOL,2,355,U,X, UX_2,   
+STORE,MERGE 
+XVAR,1  
+PLVAR,2,
+!*  
+NSOL,3,141,U,X, UX_3,   
+STORE,MERGE 
+FINISH  
+/SOL
+ACEL,1,0,0, 
+input   
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       16:32:19
+input   
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       16:32:35
+input   
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       16:32:41
+ksll,s  
+! prvar,2,3 
+/post26 
+nsol,2,2,u,x,2ux          ! store ux displacements  
+nsol,3,3,u,x,3ux
+/grid,1                   ! turn grid on
+/axlab,y,disp             ! y-axis label disp   
+!plvar,2,3                 ! display variables 2 and 3  
+prvar,2,3   
+/post26 
+nsol,2,2,u,x,2ux          ! store ux displacements  
+nsol,3,3,u,x,3ux
+/grid,1                   ! turn grid on
+/axlab,y,disp             ! y-axis label disp   
+plvar,2,3                 ! display variables 2 and 3   
+!prvar,2,3  
+prvar,2,3   
+prvar,2,3   
+NUMVAR,200  
+PLCPLX,0
+PRCPLX,1
+FINISH  
+/SOL
+!*  
+!*  
+HROPT,FULL  
+HROUT,OFF   
+LUMPM,0 
+!*  
+EQSLV, ,0,  
+PSTRES,0
+!*  
+!*  
+!*  
+HROPT,FULL  
+HROUT,OFF   
+LUMPM,0 
+!*  
+EQSLV, ,0,  
+PSTRES,0
+!*  
+FINISH  
+/POST26 
+NUMVAR,200  
+PLCPLX,0
+PRCPLX,1
+PRVAR,2,
+eplot   
+NUMVAR,200  
+PLCPLX,0
+PRCPLX,1
+VARDEL,3
+VARDEL,2
+FILLDATA,191,,,,1,1 
+REALVAR,191,191 
+!*  
+NSOL,2,355,U,X, UX_4,   
+STORE,MERGE 
+XVAR,1  
+PLVAR,2,
+LINES,100   
+PRVAR,2,
+input   
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       16:39:56
+NUMVAR,200  
+PLCPLX,0
+PRCPLX,1
+VARDEL,3
+VARDEL,2
+FILLDATA,191,,,,1,1 
+REALVAR,191,191 
+eplot   
+!*  
+NSOL,2,355,U,X, UX_4,   
+STORE,MERGE 
+XVAR,1  
+PLVAR,2,
+PRVAR,2,
+LINES,200   
+PRVAR,2,
+FINISH  
+/POST1  
+SET,LIST
+FINIS   
+/CLEAR,START
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       16:41:21
+/input,start,ans,'C:\Program Files\ANSYS Inc\v171\ANSYS\apdl\'  
+/PREP7  
+et,1,181
+mp,ex,1,2e11
+mp,nuxy,1,0.3   
+mp,dens,1,10239 
+sect,1,shell,,  
+secdata,0.2,1,0.0,3 
+et,2,14 
+KEYOPT,2,2,1
+r,2,1000000,1581
+et,3,14 
+KEYOPT,3,2,2
+r,3,1000000,1581
+k,,-4494/2000   
+kplott,,,,,,,,,1
+k,,-1779.5/1000 
+kplott,,,,,,,,,1
+k,,-1459.5/1000 
+kplott,,,,,,,,,1
+k,,-1257.5/1000 
+kplott,,,,,,,,,1
+k,,-937.5/1000  
+kplott,,,,,,,,,1
+k,,-700.5/1000  
+kplott,,,,,,,,,1
+k,,-415.5/1000  
+kplott,,,,,,,,,1
+k,,308.5/1000   
+kplott,,,,,,,,,1
+k,,593.5/1000   
+kplott,,,,,,,,,1
+k,,830.5/1000   
+kplott,,,,,,,,,1
+k,,1150.5/1000  
+kplott,,,,,,,,,1
+k,,1450.5/1000  
+kplott,,,,,,,,,1
+k,,1770.5/1000  
+kplott,,,,,,,,,1
+k,,4494/2000
+kplott,,,,,,,,,1
+k,,4494/2000,163*2/1000 
+kplott,,,,,,,,,1
+k,,-4494/2000,163*2/1000
+a,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+esize,0.05  
+amesh,ALL   
+eplott  
+n,10000,,-0.1   
+type,2  
+real,2  
+*do,i,2,13  
+ksel,s,,,%i%
+nslk,s  
+*get,nnum,node,,num,MIN 
+ALLS
+e,10000,nnum
+*enddo  
+n,20000,,-0.2   
+type,3  
+real,3  
+*do,i,2,13  
+ksel,s,,,%i%
+nslk,s  
+*get,nnum,node,,num,MIN 
+ALLS
+e,20000,nnum
+*enddo  
+ALLS
+d,10000,all,0   
+d,20000,all,0   
+d,all,uz,0  
+FINISH  
+/SOL
+ANTYPE,2
+MODOPT,LANB,5   
+EQSLV,SPAR  
+MXPAND,5,,,0
+LUMPM,0 
+pstres,0
+MODOPT,LANB,5,1,10000, ,OFF 
+ALLS
+SOLVE   
+FINISH  
+/POST1  
+SET,LIST
+input   
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       17:03:50
+eplot   
+NUMVAR,200  
+PLCPLX,0
+PRCPLX,1
+VARDEL,2
+VARDEL,3
+FILLDATA,191,,,,1,1 
+REALVAR,191,191 
+!*  
+NSOL,2,355,U,X, UX_4,   
+STORE,MERGE 
+XVAR,1  
+PLVAR,2,
+FINIS   
+/CLEAR,START
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       17:11:48
+/input,start,ans,'C:\Program Files\ANSYS Inc\v171\ANSYS\apdl\'  
+/PREP7  
+et,1,181
+mp,ex,1,2e11
+mp,nuxy,1,0.3   
+mp,dens,1,10239 
+sect,1,shell,,  
+secdata,0.2,1,0.0,3 
+et,2,14 
+KEYOPT,2,2,1
+r,2,1000000,1581*2  
+et,3,14 
+KEYOPT,3,2,2
+r,3,1000000,1581*2  
+k,,-374.5/1000  
+kplott,,,,,,,,,1
+k,,-374.5/2000  
+kplott,,,,,,,,,1
+k,,374.5/2000   
+kplott,,,,,,,,,1
+k,,374.5/1000   
+kplott,,,,,,,,,1
+k,,374.5/1000,163*2/1000
+kplott,,,,,,,,,1
+k,,-374.5/1000,163*2/1000   
+a,1,2,3,4,5,6   
+esize,0.05  
+amesh,ALL   
+eplott  
+n,10000,,-0.1   
+type,2  
+real,2  
+*do,i,2,3   
+ksel,s,,,%i%
+nslk,s  
+*get,nnum,node,,num,MIN 
+ALLS
+e,10000,nnum
+*enddo  
+n,20000,,-0.2   
+type,3  
+real,3  
+*do,i,2,3   
+ksel,s,,,%i%
+nslk,s  
+*get,nnum,node,,num,MIN 
+ALLS
+e,20000,nnum
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+ALLS
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+eplot   
+ALLS
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+FINIS   
+/CLEAR,START
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       17:13:11
+/input,start,ans,'C:\Program Files\ANSYS Inc\v171\ANSYS\apdl\'  
+/PREP7  
+et,1,181
+mp,ex,1,2e11
+mp,nuxy,1,0.3   
+mp,dens,1,10239 
+sect,1,shell,,  
+secdata,0.2,1,0.0,3 
+et,2,14 
+KEYOPT,2,2,1
+r,2,1000000,1581*2  
+et,3,14 
+KEYOPT,3,2,2
+r,3,1000000,1581*2  
+k,,-374.5/1000  
+kplott,,,,,,,,,1
+k,,-374.5/2000  
+kplott,,,,,,,,,1
+k,,374.5/2000   
+kplott,,,,,,,,,1
+k,,374.5/1000   
+kplott,,,,,,,,,1
+k,,374.5/1000,163*2/1000
+kplott,,,,,,,,,1
+k,,-374.5/1000,163*2/1000   
+a,1,2,3,4,5,6   
+esize,0.05  
+amesh,ALL   
+eplott  
+n,10000,,-0.1   
+type,2  
+real,2  
+*do,i,2,3   
+ksel,s,,,%i%
+nslk,s  
+*get,nnum,node,,num,MIN 
+ALLS
+e,10000,nnum
+*enddo  
+n,20000,,-0.2   
+type,3  
+real,3  
+*do,i,2,3   
+ksel,s,,,%i%
+nslk,s  
+*get,nnum,node,,num,MIN 
+ALLS
+e,20000,nnum
+*enddo  
+ALLS
+eplot   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+ALLS
+d,10000,all,0   
+d,20000,all,0   
+d,all,uz,0  
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+FINISH  
+/SOL
+ANTYPE,2
+MODOPT,LANB,5   
+EQSLV,SPAR  
+MXPAND,5,,,0
+LUMPM,0 
+pstres,0
+MODOPT,LANB,5,1,10000, ,OFF 
+ALLS
+SOLVE   
+FINISH  
+/POST1  
+SET,LIST
+SET,LIST
+SET,FIRST   
+!*  
+PLDI, , 
+ANMODE,20,0.5, ,0   
+!*  
+SET,LIST
+input   
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       17:19:39
+input2  
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       20:59:24
+/REPLOT,RESIZE  
+! /CLEAR,START  
+FINISH  
+/PREP7  
+et,1,181
+mp,ex,1,2e11
+mp,nuxy,1,0.3   
+mp,dens,1,10239 
+sect,1,shell,,  
+secdata,0.2,1,0.0,3 
+et,2,14 
+KEYOPT,2,2,1
+r,2,1000000,1581*2  
+et,3,14 
+KEYOPT,3,2,2
+r,3,1000000,1581*2  
+k,,-4494/2000   
+kplott,,,,,,,,,1
+k,,-1779.5/1000 
+k,,-1459.5/1000 
+k,,-1257.5/1000 
+k,,-937.5/1000  
+k,,-700.5/1000  
+k,,-415.5/1000  
+k,,308.5/1000   
+k,,593.5/1000   
+kplott,,,,,,,,,1
+k,,830.5/1000   
+kplott,,,,,,,,,1
+k,,1150.5/1000  
+kplott,,,,,,,,,1
+k,,1450.5/1000  
+kplott,,,,,,,,,1
+k,,1770.5/1000  
+kplott,,,,,,,,,1
+k,,4494/2000
+kplott,,,,,,,,,1
+k,,4494/2000,163*2/1000 
+k,,-4494/2000,163*2/1000
+a,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+esize,0.05  
+amesh,ALL   
+n,10000,,-0.1   
+type,2  
+real,2  
+*do,i,2,13  
+ksel,s,,,%i%
+nslk,s  
+*get,nnum,node,,num,MIN 
+ALLS
+e,10000,nnum
+*enddo  
+n,20000,,-0.2   
+type,3  
+real,3  
+*do,i,2,13  
+ksel,s,,,%i%
+nslk,s  
+*get,nnum,node,,num,MIN 
+ALLS
+e,20000,nnum
+*enddo  
+ALLS
+d,10000,all,0   
+d,20000,all,0   
+d,all,uz,0  
+FINISH  
+/SOL
+ANTYPE,2
+MODOPT,LANB,5   
+EQSLV,SPAR  
+MXPAND,5,,,0
+LUMPM,0 
+pstres,0
+MODOPT,LANB,5,1,10000, ,OFF 
+ALLS
+SOLVE   
+FINISH  
+FINIS   
+/CLEAR,START
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       22:05:02
+/input,start,ans,'C:\Program Files\ANSYS Inc\v171\ANSYS\apdl\'  
+/PREP7  
+et,1,181
+mp,ex,1,2e11
+mp,nuxy,1,0.3   
+mp,dens,1,10239 
+sect,1,shell,,  
+secdata,0.2,1,0.0,3 
+et,2,14 
+KEYOPT,2,2,1
+r,2,1000000,1581*2  
+et,3,14 
+KEYOPT,3,2,2
+r,3,1000000,1581*2  
+k,,-4494/2000   
+kplott,,,,,,,,,1
+k,,-1779.5/1000 
+kplott,,,,,,,,,1
+k,,-1459.5/1000 
+kplott,,,,,,,,,1
+k,,-1257.5/1000 
+kplott,,,,,,,,,1
+k,,-937.5/1000  
+kplott,,,,,,,,,1
+k,,-700.5/1000  
+kplott,,,,,,,,,1
+k,,-415.5/1000  
+kplott,,,,,,,,,1
+k,,308.5/1000   
+kplott,,,,,,,,,1
+k,,593.5/1000   
+kplott,,,,,,,,,1
+k,,830.5/1000   
+kplott,,,,,,,,,1
+k,,1150.5/1000  
+kplott,,,,,,,,,1
+k,,1450.5/1000  
+kplott,,,,,,,,,1
+k,,1770.5/1000  
+kplott,,,,,,,,,1
+k,,4494/2000
+kplott,,,,,,,,,1
+k,,4494/2000,163*2/1000 
+kplott,,,,,,,,,1
+k,,-4494/2000,163*2/1000
+a,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+esize,0.05  
+amesh,ALL   
+eplott  
+n,10000,,-0.1   
+type,2  
+real,2  
+*do,i,2,13  
+ksel,s,,,%i%
+nslk,s  
+*get,nnum,node,,num,MIN 
+ALLS
+e,10000,nnum
+*enddo  
+n,20000,,-0.2   
+type,3  
+real,3  
+*do,i,2,13  
+ksel,s,,,%i%
+nslk,s  
+*get,nnum,node,,num,MIN 
+ALLS
+e,20000,nnum
+*enddo  
+ALLS
+d,10000,all,0   
+d,20000,all,0   
+d,all,uz,0  
+FINISH  
+/SOL
+ANTYPE,2
+MODOPT,LANB,5   
+EQSLV,SPAR  
+MXPAND,5,,,0
+LUMPM,0 
+pstres,0
+MODOPT,LANB,5,1,10000, ,OFF 
+ALLS
+SOLVE   
+FINISH  
+/REPLOT,RESIZE  
+/POST1  
+SET,LIST
+SET,NEXT
+!*  
+PLDI, , 
+ANMODE,20,0.5, ,0   
+!*  
+SET,NEXT
+/USER,  1   
+/REPLO  
+!*  
+PLDI, , 
+ANMODE,20,0.5, ,0   
+!*  
+SET,NEXT
+!*  
+PLDI, , 
+ANMODE,20,0.5, ,0   
+!*  
+eplot   
+input   
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       22:20:34
+eplot   
+/RGB,INDEX,100,100,100, 0   
+/RGB,INDEX, 80, 80, 80,13   
+/RGB,INDEX, 60, 60, 60,14   
+/RGB,INDEX, 0, 0, 0,15  
+/REPLOT 
+/UDOC,1,DATE,0  
+/USER,  1   
+/REPLO  
+NUMVAR,200  
+PLCPLX,0
+PRCPLX,1
+XVAR,1  
+PLVAR,2,
+XVAR,1  
+PLVAR,2,
+LINES,2000  
+PRVAR,2,
+input2  
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       22:41:23
+NUMVAR,200  
+PLCPLX,0
+PRCPLX,1
+LINES,2000  
+PRVAR,2,
+FINIS   
+/CLEAR,START
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       22:54:00
+/input,start,ans,'C:\Program Files\ANSYS Inc\v171\ANSYS\apdl\'  
+/PREP7  
+*SET,l,800/1000 
+*SET,h,163/1000 
+*SET,v,l*h*0.2  
+*SET,m,500  
+*SET,ro,m/v 
+*SET,li,300 
+et,1,181
+mp,ex,1,2e11
+mp,nuxy,1,0.3   
+mp,dens,1,ro
+sect,1,shell,,  
+secdata,0.2,1,0.0,3 
+et,2,14 
+KEYOPT,2,2,1
+r,2,1000000,1581*2  
+et,3,14 
+KEYOPT,3,2,2
+r,3,1000000,1581*2  
+k,,-l/2 
+kplott,,,,,,,,,1
+k,,-li/1000 
+kplott,,,,,,,,,1
+k,,li/1000  
+kplott,,,,,,,,,1
+k,,l/2  
+kplott,,,,,,,,,1
+k,,l/2,163*2/1000   
+kplott,,,,,,,,,1
+k,,-l/2,163*2/1000  
+a,1,2,3,4,5,6   
+esize,0.05  
+amesh,ALL   
+eplott  
+n,10000,,-0.1   
+type,2  
+real,2  
+*do,i,2,3   
+ksel,s,,,%i%
+nslk,s  
+*get,nnum,node,,num,MIN 
+ALLS
+e,10000,nnum
+*enddo  
+ASUM, DEFAULT   
+FINIS   
+/CLEAR,START
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       22:56:38
+/input,start,ans,'C:\Program Files\ANSYS Inc\v171\ANSYS\apdl\'  
+/PREP7  
+*SET,l,800/1000 
+*SET,h,163/1000 
+*SET,v,2*l*h*0.2
+*SET,m,500  
+*SET,ro,m/v 
+*SET,li,300 
+et,1,181
+mp,ex,1,2e11
+mp,nuxy,1,0.3   
+mp,dens,1,ro
+sect,1,shell,,  
+secdata,0.2,1,0.0,3 
+et,2,14 
+KEYOPT,2,2,1
+r,2,1000000,1581*2  
+et,3,14 
+KEYOPT,3,2,2
+r,3,1000000,1581*2  
+k,,-l/2 
+kplott,,,,,,,,,1
+k,,-li/1000 
+kplott,,,,,,,,,1
+k,,li/1000  
+kplott,,,,,,,,,1
+k,,l/2  
+kplott,,,,,,,,,1
+k,,l/2,163*2/1000   
+kplott,,,,,,,,,1
+k,,-l/2,163*2/1000  
+a,1,2,3,4,5,6   
+esize,0.05  
+amesh,ALL   
+eplott  
+ASUM, DEFAULT   
+FINIS   
+/CLEAR,START
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       22:59:33
+/input,start,ans,'C:\Program Files\ANSYS Inc\v171\ANSYS\apdl\'  
+/PREP7  
+*SET,l,1000/1000
+*SET,h,163/1000 
+*SET,v,2*l*h*0.2
+*SET,m,500  
+*SET,ro,m/v 
+*SET,li,300 
+et,1,181
+mp,ex,1,2e11
+mp,nuxy,1,0.3   
+mp,dens,1,ro
+sect,1,shell,,  
+secdata,0.2,1,0.0,3 
+et,2,14 
+KEYOPT,2,2,1
+r,2,1000000,1581*2  
+et,3,14 
+KEYOPT,3,2,2
+r,3,1000000,1581*2  
+k,,-l/2 
+kplott,,,,,,,,,1
+k,,-li/1000 
+kplott,,,,,,,,,1
+k,,li/1000  
+kplott,,,,,,,,,1
+k,,l/2  
+kplott,,,,,,,,,1
+k,,l/2,163*2/1000   
+kplott,,,,,,,,,1
+k,,-l/2,163*2/1000  
+a,1,2,3,4,5,6   
+esize,0.05  
+amesh,ALL   
+eplott  
+ASUM, DEFAULT   
+FINIS   
+/CLEAR,START
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       23:00:38
+/input,start,ans,'C:\Program Files\ANSYS Inc\v171\ANSYS\apdl\'  
+/PREP7  
+*SET,l,1100/1000
+*SET,h,163/1000 
+*SET,v,2*l*h*0.2
+*SET,m,500  
+*SET,ro,m/v 
+*SET,li,300 
+et,1,181
+mp,ex,1,2e11
+mp,nuxy,1,0.3   
+mp,dens,1,ro
+sect,1,shell,,  
+secdata,0.2,1,0.0,3 
+et,2,14 
+KEYOPT,2,2,1
+r,2,1000000,1581*2  
+et,3,14 
+KEYOPT,3,2,2
+r,3,1000000,1581*2  
+k,,-l/2 
+kplott,,,,,,,,,1
+k,,-li/1000 
+kplott,,,,,,,,,1
+k,,li/1000  
+kplott,,,,,,,,,1
+k,,l/2  
+kplott,,,,,,,,,1
+k,,l/2,163*2/1000   
+kplott,,,,,,,,,1
+k,,-l/2,163*2/1000  
+a,1,2,3,4,5,6   
+esize,0.05  
+amesh,ALL   
+eplott  
+ASUM, DEFAULT   
+FINIS   
+/CLEAR,START
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       23:02:14
+/input,start,ans,'C:\Program Files\ANSYS Inc\v171\ANSYS\apdl\'  
+/PREP7  
+*SET,l,1050/1000
+*SET,h,163/1000 
+*SET,v,2*l*h*0.2
+*SET,m,500  
+*SET,ro,m/v 
+*SET,li,300 
+et,1,181
+mp,ex,1,2e11
+mp,nuxy,1,0.3   
+mp,dens,1,ro
+sect,1,shell,,  
+secdata,0.2,1,0.0,3 
+et,2,14 
+KEYOPT,2,2,1
+r,2,1000000,1581*2  
+et,3,14 
+KEYOPT,3,2,2
+r,3,1000000,1581*2  
+k,,-l/2 
+kplott,,,,,,,,,1
+k,,-li/1000 
+kplott,,,,,,,,,1
+k,,li/1000  
+kplott,,,,,,,,,1
+k,,l/2  
+kplott,,,,,,,,,1
+k,,l/2,163*2/1000   
+kplott,,,,,,,,,1
+k,,-l/2,163*2/1000  
+a,1,2,3,4,5,6   
+esize,0.05  
+amesh,ALL   
+eplott  
+ASUM, DEFAULT   
+input2  
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       23:03:18
+NUMVAR,200  
+PLCPLX,0
+PRCPLX,1
+LINES,2000  
+PRVAR,2,
+eplot   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/DIST,1,1.08222638492,1 
+/REP,FAST   
+/USER,  1   
+/DIST,  1,  0.539667448382  
+/ANG,   1,   1.20000000000  
+/REPLO  
+/VIEW,1,,,1 
+/ANG,1  
+/REP,FAST   
+/FOC,   1, -0.566650820801E-02,  0.856660328320E-01,   0.00000000000
+/REPLO  
+NUMVAR,200  
+PLCPLX,0
+PRCPLX,1
+FILLDATA,191,,,,1,1 
+REALVAR,191,191 
+!*  
+NSOL,3,41,U,X, UX_4,
+STORE,MERGE 
+XVAR,1  
+PLVAR,3,
+PRVAR,3,
+FINISH  
+! /EXIT,NOSAV   
+/BATCH  
+/COM,ANSYS RELEASE Release 17.1      BUILD 17.1      UP20160404       18:32:15
+/input,menust,tmp,''
+/GRA,POWER
+/GST,ON
+/PLO,INFO,3
+/GRO,CURL,ON
+/CPLANE,1   
+/REPLOT,RESIZE  
+WPSTYLE,,,,,,,,0
+FINISH  
+! /EXIT,NOSAV   

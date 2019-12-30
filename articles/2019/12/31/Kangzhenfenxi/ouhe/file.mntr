@@ -1,0 +1,11 @@
+
+
+
+ SOLUTION HISTORY INFORMATION FOR JOB: file.mntr                                                                                                                                                                                                                                                           
+ ANSYS RELEASE 17.1                     15:44:51    08/06/2019
+
+  LOAD   SUB-  NO.  NO.    TOTL  INCREMENT    TOTAL         VARIAB 1     VARIAB 2     VARIAB 3
+  STEP   STEP ATTMP ITER   ITER  TIME/LFACT   TIME/LFACT    MONITOR      MONITOR      MONITOR
+                                                             Wall         MxDs         MxPl
+
+     1      1    1     1      1     1.0000       1.0000      0.10264     -0.33364E-03  0.78886E-30

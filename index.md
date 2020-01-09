@@ -1,8 +1,9 @@
 # 大肉包菜包还有灌汤包~
 
 <p align="right"><a href="https://wshwwl.github.io/about.html">关于</a></p>
-| [隔振设计（三）  隔振系统的冲击反应分析](.\articles\2020\01\07\antiseismic3.html) |
+| [隔振设计（四） 隔振系统的耦合分析](.\articles\2020\01\08\antiseismic4.html) |
 | :----------------------------------------------------------- |
+| [隔振设计（三）  隔振系统的冲击反应分析](.\articles\2020\01\07\antiseismic3.html) |
 | [隔振设计（二）  隔振系统的随机振动分析](.\articles\2020\01\06\antiseismic2.html) |
 | [隔振设计（一）  隔振系统的幅频特性](.\articles\2019\12\31\antiseismic1.html) |
 | [Python自动翻页截图脚本](.\articles\2019\12\30\capture.html) |

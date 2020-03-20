@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: STFangSong, Helvetica, Arial, Vernada, Tahoma, STXihei, "Microsoft YaHei", "Songti SC", SimSun, Heiti, sans-serif;
+    font-size: 21px;
+}
+
+#header{
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
+    font-size: 24px;
+    position: relative;
+    margin: 0 6% 0 6%;
+}
+
+#header a{
+    display: block;
+    position: absolute;
+    right: 0;
+    top:0;
+    padding: 15px 0 15px 0;
+}
+
+a{
+    text-decoration: none;
+    color: #428bca
+}
+
+h1{
+    margin: 0px;
+    padding: 15px 0 15px 0;
+    color: rgb(148, 145, 145);
+    font-size: 1em;
+}
+
+ul{
+    margin: 0 6% 0 6%;
+    padding: 0%;
+}
+
+li{
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    border: 1px solid #ddd;
+}
+
+li:hover{
+    background-color: #eee;
+}
+
+.date{
+    font-size: 0.8em;
+    color: darkgray;
+    margin-bottom: 2px;
+}

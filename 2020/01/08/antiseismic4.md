@@ -1,4 +1,4 @@
-[首页](https://wshwwl.github.io)  [关于](https://wshwwl.github.io/about.html) 
+[首页](https://wwl.today)  [关于](https://wwl.today/about.html) 
 
 # 隔振设计（四）  隔振系统的耦合分析
 

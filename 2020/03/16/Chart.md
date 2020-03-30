@@ -1,6 +1,6 @@
-[首页](https://wshwwl.github.io)  [关于](https://wshwwl.github.io/about.html) 
+[首页](https://wwl.today)  [关于](https://wwl.today/about.html) 
 
-# 曲线绘图控件开发
+# 曲线绘图控件
 
 之前编写的各WinForm程序中使用的曲线绘图控件都是微软的Chart控件，不过在使用的过程中也有些不顺手的地方，而且特别占用内存，只要曲线的 点一多，控件占用的内存指数上升。趁着疫情宅家这段时间，学了点GDI+的东西，慢慢悠悠的自己写了一个控件.现在已经基本满足需求了，虽然功能少了许多，但与之前相比，非常节省内存。
 

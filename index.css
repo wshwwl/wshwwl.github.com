@@ -11,28 +11,45 @@ body{
 #header{
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
     font-size: 24px;
-    position: relative;
     margin: 0 6% 0 6%;
+    padding: 0.25em 0;
+}
+@media screen and (max-width: 500px) {
+    body { font-size:18px; }
+    #header{font-size: 21px;}
 }
 
-#header a{
+#logo{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#logo img{
     display: block;
-    position: absolute;
-    right: 0;
-    top:0;
-    padding: 15px 0 15px 0;
+    width: 1.5em;
+    height: 1.5em;
+}
+
+h1{
+    display: inline-block;
+    padding: 0;
+    color: rgb(148, 145, 145);
+    font-size: 1em;
+    margin:0;
+    vertical-align: middle;
+}
+#header a{
+    vertical-align: middle;
+    float: right;
+}
+
+#clear{
+    clear: both;
 }
 
 a{
     text-decoration: none;
     color: #428bca
-}
-
-h1{
-    margin: 0px;
-    padding: 15px 0 15px 0;
-    color: rgb(148, 145, 145);
-    font-size: 1em;
 }
 
 ul{
